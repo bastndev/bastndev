@@ -8,7 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-##
 <div align="center"> 
 <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
