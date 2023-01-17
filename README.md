@@ -19,16 +19,11 @@
 <a href="https://twitter.com/bastndev" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B2?style=for-the-badge&logo=twitter&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
- <!--Final do Contador de Visitas - End to Visitors Count-->   
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
-<br>
-</div>
+
 
  <!--Final do Contador de Visitas - End to Visitors Count--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true" 
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
 
    <!--Front End-->
@@ -74,6 +69,12 @@ graph TD;
   ]
 }
 ```
-<!--   hi -->
+ <!--Final do Contador de Visitas - End to Visitors Count-->   
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
+<br>
+</div>
+  
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
