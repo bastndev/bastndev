@@ -1,7 +1,7 @@
 <!--Title @bastndev-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+24+years+old;Welcome!)
 
-<!--Front End-->
+
 
 <!--Final do Contador de Visitas - End to Visitors Count-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
@@ -31,5 +31,49 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true" 
 </p>
 
+   <!--Front End-->
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->Angular;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->JSON;
+    Front-End-->Vue;
+    Front-End-->TypeScript;
+    Front-End-->JQuery;
+   ```
+   
+ <!--Coordenadas de Rio Preto - My Home-->
+  
+ ```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-78,-11.9],
+              [-76.9,-11.9],
+              [-76.9,-11.9],
+              [-78,-11.9],
+              [-78,-11.9]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+  
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
