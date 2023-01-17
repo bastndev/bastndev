@@ -65,12 +65,15 @@ graph TD;
   ]
 }
 ```
-<!--Final do Contador de Visitas - End to Visitors Count-->   
+<!--Final do Contador de Visitas-->   
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
 <br>
 </div>
+  
+<!--- Country ---> 
+<a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
   
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
