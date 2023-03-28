@@ -14,7 +14,7 @@
 <div align="center"> 
 <a href="https://www.instagram.com/bastndev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.tiktok.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href="https://youtube.com/bastndev" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.youtube.com/@bastndev" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
  <!--Total Contributions--> 
