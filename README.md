@@ -88,7 +88,7 @@ graph TD;
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
-<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
+<img src="https://i.ytimg.com/vi/a6JQkAxYf3A/maxresdefault.jpg">
 </a>
 </td>
 <td>
