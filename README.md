@@ -83,3 +83,24 @@ graph TD;
   
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ <!---------------------------------------------------------------------------------------------------------------> 
+  <table style="width:100%">
+<tr>
+<td>
+<a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
+<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=y6nsY8vq_nI&ab_channel=BastianDev">
+<img src="https://i.ytimg.com/vi/y6nsY8vq_nI/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
+<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+</table>
