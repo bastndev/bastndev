@@ -84,7 +84,7 @@ graph TD;
  <!--Sneek Gusano-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
  <!---------------------------------------------------------------------------------------------------------------> 
-  <table style="width:100%">
+  <table style="width:100%",>
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
@@ -102,5 +102,4 @@ graph TD;
 </a>
 </td>
 </tr>
-<tr>
 </table>
