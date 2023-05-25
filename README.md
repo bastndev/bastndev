@@ -1,8 +1,9 @@
 <!--Title @bastndev-->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Perú;I'm+24+years+old;Welcome!) 
 
+
 <!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--Skill And More Information--> 
 <div align="center">  
@@ -86,20 +87,26 @@ graph TD;
  <!---------------------------------------------------------------------------------------------------------------> 
   <table style="width:100%",>
 <tr>
+  
+</td>  
+<td>
+<a href="https://www.youtube.com/watch?v=QX1myYCP76E&ab_channel=BastianDev">
+<img src="https://pbs.twimg.com/media/Fw_-rLoWIAkB4KF?format=jpg&name=large">
+</a>
+</td>
+  
 <td>
 <a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
 <img src="https://i.ytimg.com/vi/a6JQkAxYf3A/maxresdefault.jpg">
 </a>
 </td>
+  
 <td>
 <a href="https://www.youtube.com/watch?v=y6nsY8vq_nI&ab_channel=BastianDev">
 <img src="https://i.ytimg.com/vi/y6nsY8vq_nI/maxresdefault.jpg">
 </a>
 </td>
-<td>
-<a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
-<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
-</a>
-</td>
+  
 </tr>
+
 </table>
