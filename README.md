@@ -75,15 +75,28 @@ graph TD;
 </div>
   
 <!--- Country ---> 
-<a href="https://github.com/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@bastndev" border="0"></a>
+<a href="https://github.com/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_9/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@bastndev" border="0"></a>
   
 <!-- <a href="https://github.com/bastndev/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="@bastndev" border="0"></a> -->
 <!--   
 <a href="https://info.flagcounter.com/41uN"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_16/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>  -->
 
   
- <!--Sneek Gusano-->
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ <!------------------------------------------------Sneek Gusano-------------------------------------------->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
  <!---------------------------------------------------------------------------------------------------------------> 
   <table style="width:100%",>
 <tr>
