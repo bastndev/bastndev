@@ -84,7 +84,7 @@ graph TD;
   
  <!------------------------------------------------Sneek Gusano-------------------------------------------->
 <p align="center"><a href="https://www.linkedin.com/in/bastndev/">
-  <img width="80%" alt="Hello, I'm Anurag. I do open source!" 
+  <img
     src="https://github.com/bastndev/GitHub/blob/main/IMG/sneak.svg"/>
   </a>
 </p>
