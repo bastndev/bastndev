@@ -83,16 +83,8 @@ graph TD;
 
   
  <!------------------------------------------------Sneek Gusano-------------------------------------------->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+![](https://github.com/bastndev/Resources/blob/main/assets/snike/bastndev_snike.svg)
+
  <!--------------ME--------------------->  
 <p align="center">
   <a href="https://www.linkedin.com/in/bastndev/">
