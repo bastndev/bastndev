@@ -106,7 +106,7 @@ graph TD;
 </td>
 
 <td>
-<a href="https://www.youtube.com/watch?v=y6nsY8vq_nI&ab_channel=BastianDev">
+<a href="https://www.youtube.com/watch?v=VdsJeyRhSWw">
 <img src="https://i.ytimg.com/vi/VdsJeyRhSWw/maxresdefault.jpg">
 </a>
   
