@@ -104,17 +104,17 @@ graph TD;
 <img src="https://pbs.twimg.com/media/Fw_-rLoWIAkB4KF?format=jpg&name=large">
 </a>
 </td>
+
+<td>
+<a href="https://www.youtube.com/watch?v=y6nsY8vq_nI&ab_channel=BastianDev">
+<img src="https://i.ytimg.com/vi/VdsJeyRhSWw/maxresdefault.jpg">
+</a>
   
 <td>
 <a href="https://www.youtube.com/watch?v=a6JQkAxYf3A&t=119s&ab_channel=BastianDev">
 <img src="https://i.ytimg.com/vi/a6JQkAxYf3A/maxresdefault.jpg">
 </a>
 </td>
-  
-<td>
-<a href="https://www.youtube.com/watch?v=y6nsY8vq_nI&ab_channel=BastianDev">
-<img src="https://i.ytimg.com/vi/y6nsY8vq_nI/maxresdefault.jpg">
-</a>
 </td>
   
 </tr>
