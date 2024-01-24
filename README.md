@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="35%" src="@bastndev/IMG/image.gif" alt="bastndev.com">
+  <img width="35%" src="@bastndev/IMG/image.gif" title="bastndev.com">
 </div>
 
 >- Working in new GitHub profile 2024, Thanks fow visited my profile.
