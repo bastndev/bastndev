@@ -6,8 +6,8 @@
 
 
 <!-- code IMG -->
-<details style="list-style: none;">
-<summary style="list-style: none;">ABOUT ME ™</summary>
+<details >
+<summary align="center">➥ ABOUT ME ™</summary>
 
 </br>
 <p align="center">
