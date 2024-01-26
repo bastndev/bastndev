@@ -10,11 +10,11 @@
 <summary align="center"><b>ABOUT ME</b>.™</summary>
 
 </br>
-<p align="center">
+<div align="center" style="width: 60%; margin: auto;">
    <kbd>
   Our team is composed of passionate developers dedicated to customizing and providing exclusive materials for your GitHub profile. Here, you will find a wide range of resources that will help you stand out and enhance your presence on this collaborative development platform. From custom themes to project templates, we are committed to providing you with the necessary tools.
   </kbd>
-</p>
+</div>
 
 ```
   Our team is composed of passionate developers dedicated to customizing and providing exclusive materials for your GitHub profile. Here, you will find a wide range of resources that will help you stand out and enhance your presence on this collaborative development platform. From custom themes to project templates, we are committed to providing you with the necessary tools.
