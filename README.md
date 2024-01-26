@@ -6,8 +6,8 @@
 
 
 <!-- code IMG -->
-<details>
-<summary align="center"><a href="#">ABOUT ME ™</a></summary>
+<details >
+<summary align="center">↝ ABOUT ME ™</summary>
 
 </br>
 <p align="center">
