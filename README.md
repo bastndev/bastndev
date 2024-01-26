@@ -7,7 +7,7 @@
 
 <!-- code IMG -->
 <details >
-<summary align="center">▷ ABOUT ME </summary>
+<summary align="center">ABOUT ME ◁</summary>
 
 </br>
 <p align="center">
