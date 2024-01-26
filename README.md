@@ -4,9 +4,6 @@
 </a>
 </div>
 
-<div align="center">
-<p><img width="30%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
-</div>
 
 <!-- code IMG -->
 <details >
@@ -25,7 +22,7 @@
 <h6>Our team is composed of passionate developers dedicated to customizing and providing exclusive materials for your GitHub profile. Here, you will find a wide range of resources that will help you stand out and enhance your presence on this collaborative development platform. From custom themes to project templates, we are committed to providing you with the necessary tools.</h6>
 
 <div align="center">
-<p><img width="30%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
+<p><img width="25%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
 </div>
 
 </details>
