@@ -7,7 +7,7 @@
 
 <!-- code IMG -->
 <details >
-<summary align="center">👾 Click-Code ... 👾</summary>
+<summary align="center">ABOUT ME ™</summary>
 
 <p align="center">
    <kbd>
