@@ -5,7 +5,7 @@
 
 <!-- ABOUT ME -->
 <details >
-<summary align="center"><b>ABOUT ME</b> <a href="#"> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"></a></summary>
+<summary align="center"><b>ABOUT ME</b> <a href="#"> <img width="11.5px" src="@bastndev/IMG/verify.gif"></a></summary>
 
 <div >
 <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
