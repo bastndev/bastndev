@@ -22,20 +22,20 @@
 </div>
 
 <!-- STATISTICS graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=96989C&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d111&color=96989C&line=20d4f5&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- STATISTICS -->
 <details >
 <summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary>
 
+<div>
+  <img align="left" width="37%" src="@bastndev/IMG/panela.png"/>
 <p align="right">
- <img  width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true">
+ <img  width="60%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=15">
 </p>
+</div>
 </details>
-ee
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=6.9)](https://git.io/streak-stats)
 
 <!-- Visit Counter -->
 <div>
