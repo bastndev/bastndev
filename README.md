@@ -29,9 +29,10 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p> -->
  
-
+<div>
+<img align="right" width="2%" src="@bastndev/IMG/blok.png"/>
 <img align="right" width="2.1%" src="@bastndev/IMG/gem.webp"/>
-
+</div>
 </br>
 
 [<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
