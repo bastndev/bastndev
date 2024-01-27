@@ -15,9 +15,9 @@
   <h6>
     Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>and I'm from Peru 🇵🇪. Currently, I'm working<a href="https://www.bastndev.com/"> @bastndev </a>. In my personal projects .I'm interested in developing applications that have integrated artificial intelligence. If you want me to be part of your development team, you can contact me. 
   </h6>
-  <h6 align="center">
-  ➥ My interests: | • Singapore | • Mobile Development | <h5>• Artificial Intelligence </h5> | • UI/UX
-    </h6>
+  <h5 align="center">
+  ➥ My interests: | • Singapore | • Mobile Development | • Artificial Intelligence | • UI/UX
+    </h5>
 </div>
 
 <!-- <h1 align="center">Github Metrics </h1> -->
