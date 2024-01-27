@@ -26,7 +26,7 @@
 
  
 <details >
-<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="12px" src="@bastndev/IMG/statistics.png"></a></summary>
+<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics.png"></a></summary>
 
 <!-- SOCIAL MEDIA -->
 <p align="center">
