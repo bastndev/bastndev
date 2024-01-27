@@ -30,7 +30,7 @@
 </p> -->
  
 <div>
-<img align="right" width="2%" src="@bastndev/IMG/blok.png"/>
+<img align="right" width="3%" src="@bastndev/IMG/blok.png"/>
 <img align="right" width="2.1%" src="@bastndev/IMG/gem.webp"/>
 </div>
 </br>
