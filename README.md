@@ -10,8 +10,8 @@
 <summary align="center"><b>ABOUT ME</b>.™</summary>
 <!-- </br> -->
 <div >
-<img align="left" width="20%" src="@bastndev/IMG/blok.png"/>
-<img align="right" width="20%" src="@bastndev/IMG/blok.png"/>
+<img align="left" width="10%" src="@bastndev/IMG/blok.png"/>
+<img align="right" width="20%" heigh="90%"  src="@bastndev/IMG/blok.png"/>
   <h6>
     Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian</a> working at <a href="https://www.bastndev.com/">@bastndev </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
   </h6>
