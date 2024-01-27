@@ -30,9 +30,11 @@
 </p> -->
  
 
-</br>
+
 
 [<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
+
+</br>
 
 <div>
 <img align="right" width="2%" src="@bastndev/IMG/blok.png"/>
