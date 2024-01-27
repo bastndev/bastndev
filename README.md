@@ -17,7 +17,7 @@
     Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>and I'm from Peru 🇵🇪. Currently, I'm working<a href="https://www.bastndev.com/"> @bastndev </a>. In my personal projects .I'm interested in developing applications that have integrated artificial intelligence. If you want me to be part of your team, you can <img width="15px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/dt%20(83).gif">
   </h6>
   <h5 align="center">
-  ➥ <a href="https://www.linkedin.com/in/bastndev/" > My interests: </a> • Artificial Intelligence | • Mobile Development | • UI/UX
+  ➥ <a href="https://www.linkedin.com/in/bastndev/" > My interests: </a> • Artificial Intelligence | • Mobile Development | • UI/UX U+2B05
     </h5>
 </div>
 
