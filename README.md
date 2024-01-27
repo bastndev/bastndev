@@ -13,7 +13,7 @@
 <img align="left" width="15%" src="@bastndev/IMG/blok.png"/>
 <img align="right" width="15%" src="@bastndev/IMG/blok.png"/>
   <h6>
-    Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian</a> working at <a href="https://www.bastndev.com/">@bastndev </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
+    Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian</a>and I'm from Peru 🇵🇪. Currently, I'm working on my personal projects <a href="https://www.bastndev.com/">@bastndev </a>.I'm interested in developing applications that have integrated artificial intelligence. If you want me to be part of your development team, you can contact me. 
   </h6>
 </div>
 
