@@ -32,6 +32,6 @@
 
 
 [<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
-<img align="right" width="2.2%" src="@bastndev/IMG/gem.webp"/>
+<img align="right" width="2.1%" src="@bastndev/IMG/gem.webp"/>
 </details>
 
