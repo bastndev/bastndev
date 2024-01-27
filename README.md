@@ -34,6 +34,9 @@
 </details>
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=6.9)](https://git.io/streak-stats)
+
 <!-- Visit Counter -->
 <div>
 <img align="right" width="4.2%" src="@bastndev/IMG/blok.png"/>
