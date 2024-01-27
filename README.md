@@ -5,7 +5,7 @@
 
 <!-- ABOUT ME -->
 <details >
-<summary align="center"><b>ABOUT ME</b> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
+<summary align="center"><b>ABOUT ME</b> <a href="#" ><img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </a></summary>
 
 <div >
 <img align="left" width="13%" src="@bastndev/IMG/blok2.png"/>
@@ -48,6 +48,6 @@
 <!-- </div> -->
 
 
-[<img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif">](#lucas)
+
 </details>
 
