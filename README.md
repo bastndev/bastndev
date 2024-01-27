@@ -8,9 +8,7 @@
 <!-- code IMG -->
 <details >
 <summary align="center"><b>ABOUT ME</b> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
-</br>
-<table>
-  <td>  
+<!-- </br> -->
 
 <div >
 <img align="left" width="12%"  high="100%" src="@bastndev/IMG/blok2.png"/>
@@ -27,11 +25,7 @@
 <!-- <h1 align="center">Github Metrics </h1> -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=96989C&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</table>
 
-
-
-  <!-- </tr> -->
 
 <div >
 <p><img align="left" width="20%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
