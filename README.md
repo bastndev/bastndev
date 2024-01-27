@@ -7,7 +7,7 @@
 
 <!-- code IMG -->
 <details >
-<summary align="center" open><b>ABOUT ME..</b>.™</summary>
+<summary align="center" open><b>ABOUT ME</b>...™</summary>
 <!-- </br> -->
 <div >
 <img align="left" width="15%" src="@bastndev/IMG/blok.png"/>
