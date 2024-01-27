@@ -27,7 +27,25 @@
 <!-- <h1 align="center">Github Metrics </h1> -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=96989C&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ VAPT
+├─▣ Author of seeker and finalrecon
+├─▣ <a href="#">thewhiteh4t's Blog</a>
+├─▣ I am mostly available at <a href="#">The White Circle</a>
+│
+└───────────────────────────────▰▰▰
 
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="#">𝕏</a>
+├─◈ <a href="#">YouTube</a>
+├─◈ <a href="#">Telegram</a>
+├─◈ <a href="#">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
 
 <div >
 <p><img align="left" width="20%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
