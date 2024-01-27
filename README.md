@@ -6,7 +6,7 @@
 
 <!-- code IMG -->
 <details >
-<summary align="center"><b>ABOUT ME</b> <a href="https://github.com/bastndev "><img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"></a> </summary>
+<summary align="center"><b>ABOUT ME</b> <img id="lucas" width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
 <!-- </br> -->
 
 <div >
