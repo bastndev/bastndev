@@ -29,16 +29,11 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p> -->
  
-
-
-
-[<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
-
-</br>
-
 <div>
 <img align="right" width="4.2%" src="@bastndev/IMG/blok.png"/>
 <img align="right" width="2.1%" src="@bastndev/IMG/gem.webp"/>
-</div>
+</div></br>
+
+[<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
 </details>
 
