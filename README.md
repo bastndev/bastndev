@@ -26,14 +26,13 @@
 
  
 <details >
-<summary><a href="#"><img width="11%" src="@bastndev/IMG/st.gif"></a></summary>
+<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="5%" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/stikers/ats%20(258).png"></a></summary>
 
 <!-- SOCIAL MEDIA -->
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
 </p>
  </details>
-
 
 <div>
 <img align="right" width="4.1%" src="@bastndev/IMG/blok.png"/>
