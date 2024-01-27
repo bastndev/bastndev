@@ -4,9 +4,7 @@
 </a>
 </div>
 
-<!-- <div> -->
-<img align="" width="15%"  high="100%" src="@bastndev/IMG/blok2.png"/>
-<!-- </div> -->
+</br>
 <!-- code IMG -->
 <details >
 <summary align="center"><b>ABOUT ME</b> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
