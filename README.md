@@ -1,9 +1,8 @@
 <!-- code IMG -->
-<div align="center">
+<div align="center" id="lucas">
 <a href="http://www.bastndev.com/"><img width="50%" src="@bastndev/IMG/Gif/gohit.gif" title="bastndev.com"></a>
 </div></br>
 
-[Volver al principio](#lucas)
 <!-- ABOUT ME -->
 <details >
 <summary align="center"><b>ABOUT ME</b> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
@@ -11,7 +10,7 @@
 <div >
 <img align="left" width="13%" src="@bastndev/IMG/blok2.png"/>
 <img align="right" width="13%" src="@bastndev/IMG/blok2.png"/>
-  <h6 id="lucas">
+  <h6>
     Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>and I'm from Peru 🇵🇪. Currently, I'm working<a href="https://www.bastndev.com/"> @bastndev </a>. In my personal projects .I'm interested in developing applications that have integrated artificial intelligence. If you want me to be part of your team, you can <img width="15px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/dt%20(83).gif">
   </h6>
 </pre>
@@ -45,10 +44,10 @@
 </pre>
 
 <!-- <div > -->
-<p><img align="right" width="20%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
+<p><img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
 <!-- </div> -->
 
 
-<!-- [Volver al principio](#lucas) -->
+[Volver al principio](#lucas)
 </details>
 
