@@ -9,10 +9,13 @@
 <details >
 <summary align="center"><b>ABOUT ME</b>.™</summary>
 <!-- </br> -->
-<div style="max-width: 400px;">
-    <h6>Our team is composed of passionate developers dedicated to customizing and providing exclusive materials for your GitHub profile. Here, you will find a wide range of resources that will help you stand out and enhance your presence on this collaborative development platform. From custom themes to project templates, we are committed to providing you with the necessary tools.</h6>
+<div >
+<img align="left" width="20%" src="@bastndev/IMG/blok.png"/>
+<img align="right" width="20%" src="@bastndev/IMG/blok.png"/>
+  <h6>
+    Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian</a> working at <a href="https://www.bastndev.com/">@bastndev </a>.Interested in learning and exploring more about Platform/Infra engineering, DevOps and Backend Development. 
+  </h6>
 </div>
-
 
 <!-- <h1 align="center">Github Metrics </h1> -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
