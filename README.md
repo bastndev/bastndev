@@ -24,16 +24,21 @@
 <!-- STATISTICS graph -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=96989C&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- SOCIAL MEDIA -->
-<!-- <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
-</p> -->
  
+<details >
+<summary><a href="#"><img width="11%" src="@bastndev/IMG/st.gif"></a></summary>
+
+<!-- SOCIAL MEDIA -->
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=bastndev&theme=tokyonight_duo&hide_border=true"
+</p>
+ </details>
+
+
 <div>
-<img align="right" width="4.2%" src="@bastndev/IMG/blok.png"/>
+<img align="right" width="4.1%" src="@bastndev/IMG/blok.png"/>
 <img align="right" width="2.1%" src="@bastndev/IMG/gem.webp"/>
-</div>
-</br>
+</div></br>
 
 [<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
 </details>
