@@ -8,11 +8,13 @@
 <!-- code IMG -->
 <details >
 <summary align="center"><b>ABOUT ME</b>.™</summary>
-
 <!-- </br> -->
 <h6>Our team is composed of passionate developers dedicated to customizing and providing exclusive materials for your GitHub profile. Here, you will find a wide range of resources that will help you stand out and enhance your presence on this collaborative development platform. From custom themes to project templates, we are committed to providing you with the necessary tools.</h6>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d1117&color=ffffff&line=FC7E0E&point=FFFB06&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- <h1 align="center">Github Metrics </h1> -->
+<p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+</p>
 
 
 
