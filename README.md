@@ -26,7 +26,7 @@
 
  
 <details >
-<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="5%" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/stikers/ats%20(258).png"></a></summary>
+<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="5%" src="@bastndev/IMG/statistics.png"></a></summary>
 
 <!-- SOCIAL MEDIA -->
 <p align="center">
