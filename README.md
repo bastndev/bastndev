@@ -3,6 +3,7 @@
 <a href="http://www.bastndev.com/"><img width="50%" src="@bastndev/IMG/Gif/gohit.gif" title="bastndev.com"></a>
 </div></br>
 
+[Volver al principio](#lucas)
 <!-- ABOUT ME -->
 <details >
 <summary align="center"><b>ABOUT ME</b> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
@@ -43,16 +44,11 @@
 └───────────────────────────────▰▰▰
 </pre>
 
-<div >
-<p><img align="left" width="20%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
+<!-- <div > -->
 <p><img align="right" width="20%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
-<h6 >Our team is composed of passionate developers dedicated to customizing and providing exclusive materials for your GitHub profile. Here, you will find a wide range of resources that will help you stand out and enhance your presence on this collaborative development platform. From custom themes to project templates, we are committed to providing you with the necessary tools.</h6>
+<!-- </div> -->
 
 
-
-</div>
-
-
-[Volver al principio](#lucas)
+<!-- [Volver al principio](#lucas) -->
 </details>
 
