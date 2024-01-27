@@ -8,7 +8,7 @@
 <!-- code IMG -->
 <details >
 <summary align="center" open><b>ABOUT ME</b> <img width="12px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
-<!-- </br> -->
+</br>
 <div >
 <table><tr><td >
 <img align="left" width="15%" src="@bastndev/IMG/blok.png"/>
