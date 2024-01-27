@@ -8,10 +8,10 @@
 <!-- code IMG -->
 <details >
 <summary align="center"><b>ABOUT ME</b> <img width="11.5px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/vr%20(14).gif"> </summary>
+</br>
 <table>
   <td>  
 
-</br>
 <div >
 <img align="left" width="15%"  high="100%" src="@bastndev/IMG/blok.png"/>
 <img align="right" width="15%" src="@bastndev/IMG/blok.png"/>
