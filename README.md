@@ -11,14 +11,14 @@
 <!-- </br> -->
 
 <div >
-<img align="left" width="12%"  high="100%" src="@bastndev/IMG/blok2.png"/>
-<img align="right" width="12%" src="@bastndev/IMG/blok2.png"/>
+<img align="left" width="13%"  high="100%" src="@bastndev/IMG/blok2.png"/>
+<img align="right" width="13%" src="@bastndev/IMG/blok2.png"/>
 
   <h6 id="#lucas" >
     Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>and I'm from Peru 🇵🇪. Currently, I'm working<a href="https://www.bastndev.com/"> @bastndev </a>. In my personal projects .I'm interested in developing applications that have integrated artificial intelligence. If you want me to be part of your team, you can <img width="15px" src="https://raw.githubusercontent.com/bastndev/GitHub_Emoji.gif/main/assets/gif/dt%20(83).gif">
   </h6>
   <h5 align="center">
-     <kbd>
+     <!-- <kbd> -->
   ➥ <a href="https://www.linkedin.com/in/bastndev/" > My interests: </a> • Artificial Intelligence | • Mobile Development | • UI/UX
       </kbd>
     </h5>
