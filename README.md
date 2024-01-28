@@ -46,7 +46,7 @@
   <img  width="13.5%" src="@bastndev/IMG/on4.png">
 </div>
 
-[<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
+[<img align="center" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
 
 </details>
 
