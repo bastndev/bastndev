@@ -40,14 +40,10 @@
 <p>
 .
 </p>
-<p>
-.
-</p>
 </div>
-
 </details>
 
-
+<!-- Links Social Media -->
 </br>
 <div align="center">
 <a href="http://www.bastndev.com/">
