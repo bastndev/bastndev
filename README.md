@@ -41,7 +41,7 @@
 </br>
 
 <details >
-<summary><b>𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 </b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary></br>
+<summary align="center"><b>𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 </b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary></br>
 
 </details>
 
