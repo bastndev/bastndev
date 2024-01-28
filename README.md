@@ -22,7 +22,7 @@
 </div>
 
 <!-- STATISTICS graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d111&color=96989C&line=FFFFFF&point=00b4ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0b0c10&color=96989C&line=FFFFFF&point=00b4ab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- STATISTICS -->
 <details >
