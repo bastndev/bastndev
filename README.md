@@ -47,10 +47,10 @@
 
 </br>
 <div align="center">
-  <img  width="13.5%" src="@bastndev/IMG/link1.png">
-  <img  width="13.5%" src="@bastndev/IMG/link2.png">
-  <img  width="13.5%" src="@bastndev/IMG/link3.png">
-  <img  width="13.5%" src="@bastndev/IMG/link3.png">
+  <img  width="12.5%" src="@bastndev/IMG/link1.png">
+  <img  width="12.5%" src="@bastndev/IMG/link2.png">
+  <img  width="12.5%" src="@bastndev/IMG/link3.png">
+  <img  width="12.5%" src="@bastndev/IMG/link4.png">
 </div>
 
 </br>
