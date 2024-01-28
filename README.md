@@ -62,7 +62,7 @@
   <img  width="1.5%" src="@bastndev/IMG/blok.png">
 </div>
 
-<!-- </br> -->
+</br>
 <p align="center" >
 <img width="18%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>
 </p>
