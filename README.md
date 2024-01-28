@@ -38,7 +38,7 @@
 </details>
 
 
-<img align="left" width="6%" src="https://img.shields.io/github/stars/bastndev"/>
+<img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev"/>
 
 
 <!-- Visit Counter -->
