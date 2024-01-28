@@ -34,16 +34,14 @@
 <p align="right">
  <img  width="60%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
 </p>
+<img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
 </div>
 </details>
 
 
-<img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
 
 </br>
 
-<div>
-[<img align="center" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
-</div>
+[<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
 </details>
 
