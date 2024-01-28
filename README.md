@@ -32,7 +32,7 @@
   <img align="left" width="34.9%" src="@bastndev/IMG/plus.png"/>
 
 <p align="right">
- <img  width="60%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
+ <img  width="59%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
 </p>
 <!-- <div> -->
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
