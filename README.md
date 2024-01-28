@@ -11,7 +11,7 @@
   <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
   <img align="right" width="13%" src="@bastndev/IMG/blok.png"/>
     <h6>
-      Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>from Peru 🇵🇪! Currently, I work on developing applications using (Flutter) integrating artificial intelligence into my personal projects. You can see my projects at <a href="https://www.bastndev.com/">@bastndev</a>. If you want me to be part of your team, you can send me an. <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/email.png">
+      Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>from Peru 🇵🇪! Currently, I work on developing applications using (Flutter) integrating artificial intelligence into my personal projects <a href="https://www.bastndev.com/">@bastndev</a>. If you want me to be part of your team, you can send me an. <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/email.png">
     </h6>
 </pre>
   <h3 align="center">
