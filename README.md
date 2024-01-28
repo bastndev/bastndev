@@ -32,7 +32,7 @@
   <img align="left" width="37%" src="@bastndev/IMG/skill2.png"/>
 
 <p align="right">
- <img  width="60%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
+ <img  width="58%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
 </p>
 </div>
 </details>
