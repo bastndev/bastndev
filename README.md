@@ -59,10 +59,10 @@
 <a href="https://solo.to/bastndev">
   <img  width="12.5%" src="@bastndev/IMG/link4.png">
 </a>
-  <img  width="2.5%" src="@bastndev/IMG/blok.png">
+  <img  width="1.5%" src="@bastndev/IMG/blok.png">
 </div>
 
-</br>
+<!-- </br> -->
 <p align="center" >
 <img width="18%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>
 </p>
