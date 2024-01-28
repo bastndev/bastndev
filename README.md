@@ -50,7 +50,7 @@
   <img  width="15.5%" src="@bastndev/IMG/link1.png">
   <img  width="15.5%" src="@bastndev/IMG/link2.png">
   <img  width="15.5%" src="@bastndev/IMG/link1.png">
-  <img  width="15.5%" src="@bastndev/IMG/link2.png">
+  <img  width="15.5%" src="@bastndev/IMG/link3.png">
 </div>
 
 </br>
