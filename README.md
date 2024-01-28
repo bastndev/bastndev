@@ -11,7 +11,7 @@
   <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
   <img align="right" width="13%" src="@bastndev/IMG/blok.png"/>
     <h6>
-      Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>and I'm from Peru 🇵🇪. Currently, I'm working<a href="https://www.bastndev.com/"> @bastndev </a>. In my personal projects. I'm interested in developing applications that have integrated artificial intelligence. If you want me to be part of your team, you can <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/email.png">
+      Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>and I'm from Peru 🇵🇪.Currently, I work on developing applications integrated with artificial intelligence in my personal projects. You can see my projects at<a href="https://www.bastndev.com/"> @bastndev </a>. If you want me to be part of your team, you can send me a <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/email.png">
     </h6>
 </pre>
   <h3 align="center">
