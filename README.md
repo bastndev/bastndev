@@ -16,7 +16,7 @@
 </pre>
   <h3 align="center">
 <kbd>
-  ➥ <a href="https://www.linkedin.com/in/bastndev/" > My interests: </a> • Artificial Intelligence | • Mobile Development | • UI/UX
+  ➥  My interests: </a> • Artificial Intelligence | • Mobile Development | • UI/UX
   </h5>
 </kbd>
 </div>
