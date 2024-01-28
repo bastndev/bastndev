@@ -16,7 +16,7 @@
 </pre>
   <h3 align="center">
 <kbd>
-  ➥  My interests: </a> • Artificial Intelligence | • Mobile Development | • UI/UX
+  ➥ <b>My interests:</b> • Artificial Intelligence | • Mobile Development | • UI/UX
   </h5>
 </kbd>
 </div>
