@@ -37,10 +37,11 @@
 <!-- <div> -->
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
 </div>
-</div>
 <p>
-
+.
 </p>
+</div>
+
 </details>
 
 
