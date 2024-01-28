@@ -49,7 +49,7 @@
 <div align="center">
   <img  width="14.5%" src="@bastndev/IMG/linkedin2.png">
   <img  width="18.5%" src="@bastndev/IMG/linkedn4.png">
-  <img  width="14.5%" src="@bastndev/IMG/on3.png">
+  <img  width="18.5%" src="@bastndev/IMG/linkedin5.png">
   <img  width="14.5%" src="@bastndev/IMG/on4.png">
 </div>
 
