@@ -42,6 +42,8 @@
 
 </br>
 
+<div>
 [<img align="center" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
+</div>
 </details>
 
