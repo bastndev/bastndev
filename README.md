@@ -30,11 +30,15 @@
 
 <div>
   <img align="left" width="36%" src="@bastndev/IMG/panela.png"/>
+
 <p align="right">
  <img  width="60%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=15">
 </p>
 </div>
 </details>
+
+
+<img align="left" width="6%" src="https://img.shields.io/github/stars/bastndev"/>
 
 
 <!-- Visit Counter -->
