@@ -21,6 +21,13 @@
 </kbd>
 </div>
 
+<!-- STATISTICS graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d111&color=96989C&line=20d4f5&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- STATISTICS -->
+<details >
+<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary></br>
+
 <div>
   <img align="left" width="34.9%" src="@bastndev/IMG/plus.png"/>
 
@@ -28,18 +35,15 @@
  <img  width="60%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
 </p>
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
-</div></br>
-
-<!-- STATISTICS -->
-<details >
-<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary></br>
-
-<!-- STATISTICS graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bastndev&bg_color=0d111&color=96989C&line=20d4f5&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+</div>
 </details>
 
 </br>
+
+<details >
+<summary><b>𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 </b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary></br>
+
+</details>
 
 [<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
 </details>
