@@ -39,7 +39,12 @@
 </details>
 
 </br>
-
+<div align="center">
+  <img  width="15%" src="@bastndev/IMG/on1.png">
+  <img  width="15%" src="@bastndev/IMG/on3.png">
+  <img  width="15%" src="@bastndev/IMG/on2.png">
+  <img  width="15%" src="@bastndev/IMG/on4.png">
+</div>
 </details>
 
 [<img align="right" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
