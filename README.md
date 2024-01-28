@@ -40,13 +40,8 @@
 
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
 
-<!-- Visit Counter -->
-<!-- <div>
-<img align="right" width="4.2%" src="@bastndev/IMG/blok.png"/>
-<img align="right" width="2.1%" src="@bastndev/IMG/gem.webp"/>
-</div></br> -->
 </br>
 
-[<img align="left" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
+[<img align="center" width="15%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>](#lucas)
 </details>
 
