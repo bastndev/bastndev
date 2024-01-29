@@ -4,25 +4,20 @@
 </div></br>
 
 <!-- ABOUT ME -->
-
 <details >
-<summary align="center"><b>ABOUT ME</b> <a href="#"> <img width="11.5px" src="@bastndev/IMG/verify.gif"></a></summary>
+<summary align="center"><b>ABOUT ME</b><a href="#"> <img width="11.5px" src="@bastndev/IMG/verify.gif"></a></summary>
 
-```js
-W E L C O M E    T O    M Y    P R O F I L E !   
-```
 <div>
   <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
   <img align="right" width="13%" src="@bastndev/IMG/blok.png"/>
     <h6>
       Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>from Peru 🇵🇪. Currently, I work on developing applications with (Dart) & (Flutter) integrating artificial intelligence into my personal projects. You can see my projects at <a href="https://www.bastndev.com/">@bastndev</a> if you want me to be part of your team, send me an. <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/email.png">
     </h6>
-</pre>
-  <h3 align="center">
-<kbd>
+<h3 align="center">
+  <kbd>
   ➥ <b>My interests:</b> • Artificial Intelligence | • Mobile Development | • UI/UX
-  </h5>
-</kbd>
+  </kbd>
+</h3>
 </div>
 
 <!-- STATISTICS graph -->
