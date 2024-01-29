@@ -25,7 +25,7 @@
 
 <!-- TODO: STATISTICS -->
 <details>
-<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics2.png"></a></summary></br>
+<summary><b>𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜</b> <a href="#"> <img width="15px" src="@bastndev/IMG/statistics.png"></a></summary></br>
 
 <div>
   <img align="left" width="34.5%" src="@bastndev/IMG/plus.png"/>
@@ -38,18 +38,10 @@
 
 <!-- TODO: Links Social Media -->
 <div align="center">
-<a href="http://www.bastndev.com/">
-  <img  width="12.5%" src="@bastndev/IMG/\svg/bastndev.svg">
-</a>
-<a href="https://www.linkedin.com/in/bastndev/">
-  <img  width="12.5%" src="@bastndev/IMG/\svg/linkedin.svg">
-</a>
-<a href="https://www.tiktok.com/@bastndev">
-  <img  width="12.5%" src="@bastndev/IMG/\svg/tiktok.svg">
-</a>
-<a href="https://solo.to/bastndev">
-  <img  width="12.5%" src="@bastndev/IMG/\svg/more.svg">
-</a>
+<a href="http://www.bastndev.com/"><img  width="12.5%" src="@bastndev/IMG/\svg/bastndev.svg"></a>
+<a href="https://www.linkedin.com/in/bastndev/"><img  width="12.5%" src="@bastndev/IMG/\svg/linkedin.svg"></a>
+<a href="https://www.tiktok.com/@bastndev"><img  width="12.5%" src="@bastndev/IMG/\svg/tiktok.svg"></a>
+<a href="https://solo.to/bastndev"><img  width="12.5%" src="@bastndev/IMG/\svg/more.svg"></a>
 </div></br>
 
 <!-- TODO: Visit View -->
