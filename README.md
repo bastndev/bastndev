@@ -42,8 +42,6 @@
 <a href="https://www.linkedin.com/in/bastndev/"><img  width="12.5%" src="@bastndev/IMG/link2.png"></a>
 <a href="https://www.tiktok.com/@bastndev"><img  width="12.5%" src="@bastndev/IMG/link3.png"></a>
 <a href="https://solo.to/bastndev"><img  width="12.5%" src="@bastndev/IMG/link4.png"></a>
-
-<!-- <img  width="1%" src="@bastndev/IMG/blok.png"> -->
 </div></br>
 
 <!-- TODO: Visit View -->
