@@ -11,7 +11,7 @@
   <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
   <img align="right" width="13%" src="@bastndev/IMG/blok.png"/>
     <h6>
-      Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>from Peru 🇵🇪. Currently, I work on developing applications with (Dart) & (Flutter) integrating artificial intelligence into my personal projects. You can see my projects at <a href="https://www.bastndev.com/">@bastndev</a> if you want me to be part of your team, send me an. <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/email.png">
+      Hey, I'm <a href="https://www.linkedin.com/in/bastndev/">Gohit bastian </a>from Peru 🇵🇪. Currently, I work on developing applications with (Dart) & (Flutter) integrating artificial intelligence into my personal projects. You can see my projects at <a href="https://www.bastndev.com/">@bastndev</a> if you want me to be part of your team, send me an. <img width="14px" title="go.bastndev@gmail.com" src="@bastndev/IMG/SVG/email.svg">
     </h6>
 <h3 align="center">
   <kbd>
@@ -39,16 +39,16 @@
 <!-- TODO: Links Social Media -->
 <div align="center">
 <a href="http://www.bastndev.com/">
-  <img  width="12.5%" src="@bastndev/IMG/img/bastndev.svg">
+  <img  width="12.5%" src="@bastndev/IMG/\svg/bastndev.svg">
 </a>
 <a href="https://www.linkedin.com/in/bastndev/">
-  <img  width="12.5%" src="@bastndev/IMG/img/linkedin.svg">
+  <img  width="12.5%" src="@bastndev/IMG/\svg/linkedin.svg">
 </a>
 <a href="https://www.tiktok.com/@bastndev">
-  <img  width="12.5%" src="@bastndev/IMG/img/tiktok.svg">
+  <img  width="12.5%" src="@bastndev/IMG/\svg/tiktok.svg">
 </a>
 <a href="https://solo.to/bastndev">
-  <img  width="12.5%" src="@bastndev/IMG/img/more.svg">
+  <img  width="12.5%" src="@bastndev/IMG/\svg/more.svg">
 </a>
 </div></br>
 
