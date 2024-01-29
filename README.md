@@ -15,8 +15,7 @@
     </h6>
 <h3 align="center">
   <kbd>
-  > [!IMPORTANT]
-  > ➥ <b>My interests:</b> • Artificial Intelligence | • Mobile Development | • UI/UX
+  ➥ <b>My interests:</b> • Artificial Intelligence | • Mobile Development | • UI/UX
   </kbd>
 </h3>
 </div>
@@ -36,6 +35,9 @@
 <!-- Start -->
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
 </details></br>
+
+> [!TIP]
+> Dev.to👷 https://dev.to/bastndev
 
 <!-- TODO: Links Social Media -->
 <div align="center">
