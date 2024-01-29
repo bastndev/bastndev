@@ -36,9 +36,6 @@
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
 </details></br>
 
-> [!TIP]
-> Dev.to👷 https://dev.to/bastndev
-
 <!-- TODO: Links Social Media -->
 <div align="center">
 <a href="http://www.bastndev.com/"><img  width="12.5%" src="@bastndev/IMG/link1.png"></a>
@@ -50,3 +47,7 @@
 <!-- TODO: Visit View -->
 <p align="center" ><img width="18%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/></p>
 </details>
+
+> [!TIP]
+> Dev.to👷 https://dev.to/bastndev
+
