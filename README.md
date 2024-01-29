@@ -5,7 +5,7 @@
 
 <!-- TODO: ABOUT ME -->
 <details >
-<summary align="center"><b>ABOUT ME </b> <a href="#"> <img width="11.5px" src="@bastndev/IMG/verify.gif"></a></summary>
+<summary align="center"><b>ABOUT ME </b> <a href="#"> <img width="11.5px" src="@bastndev/IMG/Gif/verify.gif"></a></summary>
 
 <div>
   <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
