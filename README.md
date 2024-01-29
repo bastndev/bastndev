@@ -39,18 +39,17 @@
 <!-- TODO: Links Social Media -->
 <div align="center">
 <a href="http://www.bastndev.com/">
-  <img  width="12.5%" src="@bastndev/IMG/link1.png">
+  <img  width="12.5%" src="@bastndev/IMG/img/bastndev.svg">
 </a>
 <a href="https://www.linkedin.com/in/bastndev/">
-  <img  width="12.5%" src="@bastndev/IMG/link2.png">
+  <img  width="12.5%" src="@bastndev/IMG/img/linkedin.svg">
 </a>
 <a href="https://www.tiktok.com/@bastndev">
-  <img  width="12.5%" src="@bastndev/IMG/link3.png">
+  <img  width="12.5%" src="@bastndev/IMG/img/tiktok.svg">
 </a>
 <a href="https://solo.to/bastndev">
-  <img  width="12.5%" src="@bastndev/IMG/link4.png">
+  <img  width="12.5%" src="@bastndev/IMG/img/more.svg">
 </a>
-  <img  width="1.5%" src="@bastndev/IMG/blok.png">
 </div></br>
 
 <!-- TODO: Visit View -->
