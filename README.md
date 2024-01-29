@@ -43,7 +43,7 @@
 <a href="https://www.tiktok.com/@bastndev"><img  width="12.5%" src="@bastndev/IMG/link3.png"></a>
 <a href="https://solo.to/bastndev"><img  width="12.5%" src="@bastndev/IMG/link4.png"></a>
 
-<img  width="1.5%" src="@bastndev/IMG/blok.png">
+<img  width="1.2%" src="@bastndev/IMG/blok.png">
 </div></br>
 
 <!-- TODO: Visit View -->
