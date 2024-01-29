@@ -40,7 +40,7 @@
 <div align="center">
 <a href="http://www.bastndev.com/"><img  width="12.5%" src="@bastndev/IMG/SVG/bastndev.svg"></a>
 <a href="https://www.linkedin.com/in/bastndev/"><img  width="12.5%" src="@bastndev/IMG/SVG/linkedin.svg"></a>
-<a href="https://www.tiktok.com/@bastndev"><img  width="12.5%" src="@bastndev/IMG/SVG/tiktok.svg"></a>
+<a href="https://www.tiktok.com/@bastndev"><img  width="12.5%" src="@bastndev/IMG/SVG/tikok.svg"></a>
 <a href="https://solo.to/bastndev"><img  width="12.5%" src="@bastndev/IMG/SVG/more.svg"></a>
 </div></br>
 
