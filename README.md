@@ -4,9 +4,13 @@
 </div></br>
 
 <!-- ABOUT ME -->
+
 <details >
 <summary align="center"><b>ABOUT ME</b> <a href="#"> <img width="11.5px" src="@bastndev/IMG/verify.gif"></a></summary>
 
+```js
+W E L C O M E    T O    M Y    P R O F I L E !   
+```
 <div>
   <img align="left" width="13%" src="@bastndev/IMG/blok.png"/>
   <img align="right" width="13%" src="@bastndev/IMG/blok.png"/>
@@ -65,6 +69,6 @@
 <p align="center" >
 <img width="18%" src="https://profile-counter.glitch.me/{bastndev}/count.svg"/>
 </p>
-<!-- [](#lucas) -->
 </details>
+<!-- [](#lucas) -->
 
