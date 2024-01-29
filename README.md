@@ -30,15 +30,10 @@
 <div>
   <img align="left" width="34.5%" src="@bastndev/IMG/plus.png"/>
   <img  width="59%" src="https://streak-stats.demolab.com?user=bastndev&theme=dark-smoky&hide_border=true&border_radius=14">
+</div></br>  
 
-</br>  
-<!-- <div> -->
+<!-- Start -->
 <img align="left" width="15%" src="https://img.shields.io/github/stars/bastndev?style=for-the-badge&logo=github&labelColor=1d2228&color=0d1117"/>
-</div>
-<p>
-.
-</p>
-</div>
 </details>
 
 <!-- Links Social Media -->
