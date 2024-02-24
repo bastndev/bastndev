@@ -1,7 +1,7 @@
 <h1 align="start">Hi 👋, I'm bastndev</h1>
 
-- 🔭 Exploring Flutter (App development)
-- 🌱 Exploring Machine Learning 
+- 🌱 I'm Mobile developer with 
+- 🔭 Exploring Machine Learning 
 ```
 ➥ AI
 ➥ Dart 🎯
