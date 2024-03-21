@@ -5,6 +5,7 @@
 ```
 ➥ AI
 ➥ Dart 🎯
+➥ Astro 🚀
 ➥ Flutter 💙
 ```
 
