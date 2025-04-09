@@ -28,7 +28,7 @@
   <table>
     <tr>
       <td>You are visitor</td>
-      <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
+      <td><img src="https://profile-counter.glitch.me/{bastndev}{/count.svg" alt="Visitor Count" /></td>
       <td>@bastndev</td>
     </tr>
   </table>
