@@ -31,3 +31,24 @@
     <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="" /></td>
   </tr>
 </table>
+
+**You are visitor:**  
+![Visitor Count](https://profile-counter.glitch.me/{bastndev}/count.svg)
+
+
+<p>
+  <strong>You are visitor:</strong>
+  <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor count" />
+</p>
+
+
+<div align="center">
+  <p><strong>You are visitor:</strong></p>
+  <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor count" />
+</div>
+
+
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; border: 2px solid #4CAF50;">
+  <p style="font-size: 18px; color: #333;"><strong style="color: #4CAF50;">You are visitor:</strong></p>
+  <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor count" />
+</div>
