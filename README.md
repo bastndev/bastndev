@@ -125,35 +125,7 @@ jobs:
 <img src="https://raw.githubusercontent.com/bastndev/bastndev/main/memes/meme_04.jpg" width="500"/>
 
 
-name: Actualizar meme
-on:
-  schedule:
-    - cron: '0 */12 * * *' # cada 12 horas
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Escoger meme
-        run: |
-          MEME=$(ls memes | shuf -n 1)
-          echo "![Meme del día](memes/$MEME)" > README.md
-      - name: Commit
-        run: |
-          git config --global user.name 'meme-bot'
-          git config --global user.email 'meme@bot.com'
-          git commit -am "nuevo meme 😂"
-          git push
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0FAVPbmsQK9DwDHpJ5QA5C?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-HOUR=$(TZ=America/Lima date +"%H")
-if (( HOUR < 12 )); then
-  GREETING="🌅 Buenos días, bastndev está tomándose un café ☕"
-elif (( HOUR < 19 )); then
-  GREETING="🌞 Hora de codear fuerte. Let's go!"
-else
-  GREETING="🌙 Modo hacker activado. No hay sueño."
-fi
-
-echo "## $GREETING" > README.md
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1rDrqnmu46FgHQ9OnqsATG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
