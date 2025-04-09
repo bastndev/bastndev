@@ -88,3 +88,72 @@ IDEAS:
 [0m
 
 
+
+name: Dynamic README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # cada 6 horas
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          echo "🌤️ Tiempo ahora en Lima: $(curl wttr.in/Lima?format=3)" > README.md
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          git commit -m "update: clima"
+          git push
+```
+
+> ¿Qué tipo de desarrollador eres?
+
+[🧙‍♂️ Mago del Backend](https://github.com/bastndev/bastndev/issues/new?title=soy-backend)
+[🎨 Artista del Frontend](https://github.com/bastndev/bastndev/issues/new?title=soy-frontend)
+[🧠 Hacker de IA](https://github.com/bastndev/bastndev/issues/new?title=soy-ia)
+
+
+## 😂 Meme del día
+
+<img src="https://raw.githubusercontent.com/bastndev/bastndev/main/memes/meme_04.jpg" width="500"/>
+
+
+name: Actualizar meme
+on:
+  schedule:
+    - cron: '0 */12 * * *' # cada 12 horas
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Escoger meme
+        run: |
+          MEME=$(ls memes | shuf -n 1)
+          echo "![Meme del día](memes/$MEME)" > README.md
+      - name: Commit
+        run: |
+          git config --global user.name 'meme-bot'
+          git config --global user.email 'meme@bot.com'
+          git commit -am "nuevo meme 😂"
+          git push
+
+
+HOUR=$(TZ=America/Lima date +"%H")
+if (( HOUR < 12 )); then
+  GREETING="🌅 Buenos días, bastndev está tomándose un café ☕"
+elif (( HOUR < 19 )); then
+  GREETING="🌞 Hora de codear fuerte. Let's go!"
+else
+  GREETING="🌙 Modo hacker activado. No hay sueño."
+fi
+
+echo "## $GREETING" > README.md
