@@ -22,23 +22,5 @@
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=bastndev)
 
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" 
-       style="background:#ffffff; padding:8px; border-radius:12px; box-shadow: 0 2px 10px rgba(0,0,0,0.15); max-width: 220px; width:100%;">
-</p>
 
-
-<style>
-  .hover-grow {
-    transition: transform 0.2s ease;
-  }
-  .hover-grow:hover {
-    transform: scale(1.05);
-  }
-</style>
-
-<p align="center">
-  <img class="hover-grow" src="https://profile-counter.glitch.me/{bastndev}/count.svg" 
-       style="max-width: 220px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); padding:6px; background:white;">
-</p>
-
+![Visitor Count](https://profile-counter.glitch.me/{bastndev}/count.svg)
