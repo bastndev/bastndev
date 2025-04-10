@@ -1,5 +1,5 @@
 <div align="right">
-  <table style="border-collapse: collapse; font-size: 12px;">
+  <table style="border-collapse: collapse; font-size: 10px;">
     <tr>
       <td style="padding-right: 5px;"> 👁️ </td>
       <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
