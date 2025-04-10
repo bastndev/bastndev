@@ -37,7 +37,9 @@
     <td style="text-align: left; vertical-align: middle;">
       <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-      <a >ⁿ❏ ❐ ❑ ❒ ▀  </a> |
+      <p >𓀞𓀟𓀠𓀡𓀢𓀣𓀤𓀥𓀦𓀧𓀨𓀩𓀪𓀫𓀬𓀀
+𓁆𓁇𓁈𓁉𓁊𓁋𓁌𓁍𓁎𓁏𓁐𓁑𓁒𓁓𓁔𓁕
+𓀭𓀮𓀯𓀰𓀱𓀲𓀳𓀴𓀵𓀶𓀷𓀸𓀹𓀺𓀻𓀼</p> |
     </td>
     <!-- Celda derecha: contador y GIF -->
     <td style="text-align: right; vertical-align: middle;">
@@ -54,35 +56,3 @@
     </td>
   </tr>
 </table>
-
-<table style="width: 100%; border: none; border-collapse: collapse;">
-  <tr>
-    <!-- Left cell: Links -->
-    <td style="text-align: left; vertical-align: middle;">
-      <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
-      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-      <a>ⁿ❏ ❐ ❑ ❒ ▀</a> |
-    </td>
-    <!-- Right cell: Visitor count and GIF -->
-    <td style="text-align: right; vertical-align: middle;">
-      <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-      <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-    </td>
-  </tr>
-</table>
-
-<!-- Left side: Links -->
-<div>
-  <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
-  <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-  <a>ⁿ❏ ❐ ❑ ❒ ▀</a> |
-</div>
-
-<!-- Add a space to push the visitor counter to the right -->
-<br>
-
-<!-- Right side: Visitor count and GIF -->
-<div style="text-align: right;">
-  <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-</div>
