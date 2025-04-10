@@ -30,6 +30,13 @@
 ---
 
 <!-- Visor counter  -->
+<div> 
+<p align="left">
+  <samp>
+    <a href="https://codepen.io/bastndev">Codepen</a> .
+    <a href="https://buymeacoffee.com/bastndev">Buymeacoffe</a> .
+  </samp>
+</p>
 <div align="right">
   <!-- Tabla con borde y estilo mejorado -->
   <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
@@ -44,4 +51,5 @@
       </td>
     </tr>
   </table>
+</div>
 </div>
