@@ -44,4 +44,9 @@
 ## 🔸Design Tool I Use
 | Lynx theme |
 | :-: |
-|<img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="41" height="41"/>|<img align="center" 
+|<img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="70" />|<img align="center" 
+
+| <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme"><img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" /></a> |
+| :-: |
+| [Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) |
+
