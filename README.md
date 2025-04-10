@@ -1,7 +1,7 @@
-<div style="position: absolute; top: 0; right: 0;">
-  <table>
+<div style="position: fixed; top: 10px; right: 10px;">
+  <table style="border-collapse: collapse; font-size: 12px;">
     <tr>
-      <td>Working in new profil 2025 wait</td>
+      <td style="padding-right: 5px;">Visitors:</td>
       <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
@@ -35,3 +35,43 @@
     <th>Lynx pack...</th>
   </tr>
 </table>
+
+<!-- q -->
+# Lynx Theme Showcase
+
+[![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)
+*Lynx Theme*
+
+[![Pumba](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)
+*Pumba*
+
+[![Lynx Pack...](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)
+*Lynx Pack...*
+
+<!-- dep -->
+### 🎨 VS Code Extensions
+<div align="center">
+  
+[![Lynx Theme](https://img.shields.io/badge/-Lynx_Theme-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)
+[![Pumba](https://img.shields.io/badge/-Pumba-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](LINK_PUMBA)
+[![Lynx Pack](https://img.shields.io/badge/-Lynx_Pack-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](LINK_PACK)
+</div>
+
+<!-- charlie  -->
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer noopener">
+    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Theme" width="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer noopener">
+    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="Pumba" width="70" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer noopener">
+    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="Lynx Pack" width="70" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Lynx Theme</b> &nbsp;&nbsp;&nbsp; <b>Pumba</b> &nbsp;&nbsp;&nbsp; <b>Lynx Pack</b>
+</p>
