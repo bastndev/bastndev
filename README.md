@@ -38,7 +38,7 @@
       <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
       <a href="https://codepen.io/bastndev" target="_blank">lllııılı.1:55 / 3:50
-      ◁◁  ▐  ▌  ▷▷ ────○─ 🔊⠀ ᴴᴰ</a>
+      ◁◁  ▐  ▌  ▷▷ ───○─ 🔊⠀ ᴴᴰ</a>
     </td>
     <!-- Celda derecha: contador y GIF -->
     <td style="text-align: right; vertical-align: middle;">
