@@ -30,51 +30,6 @@
 ---
 
 <!-- Visor counter  -->
-<div>
-
-[Buymeacoffe][buymeacoffe] **| or |**
-[codepen][codepen]
-
-<p align="right">
-  <!-- Tabla con borde y estilo mejorado -->
-  <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
-    <tr>
-      <!-- Columna para el contador -->
-      <td>
-        <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-      </td>
-      <!-- Columna para el GIF con tamaño ajustado -->
-      <td style="padding-right: 6px;">
-        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-      </td>
-    </tr>
-  </table>
-</p>
-</div>
-
-[buymeacoffe]: https://buymeacoffee.com/bastndev
-[codepen]: https://codepen.io/bastndev
-
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <!-- Enlaces a la izquierda -->
-  <div>
-    <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
-    <a href="https://codepen.io/bastndev" target="_blank">Codepen</a>
-  </div>
-  <!-- Contador de visitas y GIF a la derecha -->
-  <div>
-    <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
-      <tr>
-        <td>
-          <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-        </td>
-        <td style="padding-right: 6px;">
-          <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
@@ -98,24 +53,3 @@
     </td>
   </tr>
 </table>
-
-<div style="display: grid; grid-template-columns: 1fr auto; align-items: center; width: 100%;">
-  <!-- Enlaces a la izquierda -->
-  <div>
-    <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
-    <a href="https://codepen.io/bastndev" target="_blank">Codepen</a>
-  </div>
-  <!-- Contador de visitas y GIF a la derecha -->
-  <div>
-    <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
-      <tr>
-        <td>
-          <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-        </td>
-        <td style="padding-right: 6px;">
-          <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
