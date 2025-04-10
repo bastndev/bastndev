@@ -17,7 +17,7 @@
 </p>
 
 ## VScode Extensions  🌎
-[Theme][website]  |
+[Theme][theme]  |
 [LinkedIn][linkedin]
 
 [theme]: https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme
