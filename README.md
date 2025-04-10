@@ -37,7 +37,7 @@
     <td style="text-align: left; vertical-align: middle;">
       <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-      <p >˙ ‥ ‧ ‵ ❛ ❜ ❝ ❞ 、 。 〃 「 」 『 』 〝 〞 ︰ ﹁ ﹂ ﹃ ﹄ ﹐ ﹒ ﹔ ﹕ ！ ＃ ＄ ％ ＆ ＊ ， ． ： ； ？ ＠ ～ • … ¿ “ ‘ · ′ ” ’ ‐ ‑ ‒ – — ― ‗ ‚ ‛ „ ‟ ‣ ․ ″ ‴ ‶ ‷ ʹ ʺ ʻ ʼ ʽ ʾ ʿ ˀ ˁ ˂ ˃ ˄ ˅ ˆ ˇ ˈ ˉ ˊ ˋ ˌ ˍ ˎ ˏ ː ˑ ˒ ˓ ˔ ˕ ˖ ˗ ˘ ˚ ˛ ˜ ˝ ˞ ˠ ˡ ⁘ ⁙ ⁚ ⁛ ⁜ ⁜ ⁝ ⁞</p> |
+      <p > ⁘ ⁙ ⁚ ⁛ ⁜ ⁜ ⁝ ⁞ ⁘ ⁙ ⁚ ⁛ ⁜ ⁜ ⁝ ⁞ ⁘ ⁙ ⁚ ⁛ ⁜ ⁜ ⁝ ⁞ ⁘ ⁙ ⁚ ⁛ ⁜ ⁜ ⁝ ⁞ ⁘ ⁙ ⁚ ⁛ ⁜ ⁜ ⁝ ⁞</p> 
     </td>
     <!-- Celda derecha: contador y GIF -->
     <td style="text-align: right; vertical-align: middle;">
