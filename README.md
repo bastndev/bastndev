@@ -24,28 +24,19 @@
 
 ---
 
-<style>
-  .hover-text {
-    color: white;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-  .hover-text:hover {
-    color: #00aaff;
-  }
-</style>
-
 <table align="center">
   <tr>
     <td align="center">
-      <a class="hover-text" href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo"/><br />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo" /><br />
+        <hr style="width:50%; margin: 4px auto; border: 0.5px solid gray;" />
         <sub><b>Lynx Theme</b></sub>
       </a><br />
     </td>
     <td align="center">
-      <a class="hover-text" href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo"/><br />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo" /><br />
+        <hr style="width:50%; margin: 4px auto; border: 0.5px solid gray;" />
         <sub><b>Lynx Theme</b></sub>
       </a><br />
     </td>
