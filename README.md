@@ -1,7 +1,7 @@
-<div align="center">
+<div align="right">
   <table style="border-collapse: collapse; font-size: 12px;">
     <tr>
-      <td style="padding-right: 5px;">Visitors: 👁️</td>
+      <td style="padding-right: 5px;"> 👁️ </td>
       <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
