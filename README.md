@@ -57,3 +57,64 @@
     </td>
   </tr>
 </table>
+
+
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <!-- Celda izquierda: enlaces -->
+    <td style="text-align: left; vertical-align: middle; padding-right: 20px;">
+      <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+    </td>
+    <!-- Celda derecha: contador y GIF -->
+    <td style="text-align: right; vertical-align: middle;">
+      <table style="display: inline-block; border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
+        <tr>
+          <td>
+            <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+          </td>
+          <td style="padding-right: 6px;">
+            <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <!-- Celda izquierda: enlaces -->
+    <td style="text-align: left; vertical-align: middle; padding-right: 20px;">
+      <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+    </td>
+  </tr>
+</table>
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr>
+    <!-- Celda derecha: contador y GIF -->
+    <td style="text-align: right; vertical-align: middle;">
+      <table style="display: inline-block; border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
+        <tr>
+          <td>
+            <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+          </td>
+          <td style="padding-right: 6px;">
+            <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
