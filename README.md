@@ -43,6 +43,17 @@
 
 ## VScode Extensions 🔵
 
-[![Lynx theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) |
-:---: |
-[Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) |
+<a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
+  <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="70%" alt="Lynx theme">
+</a>
+
+| :---: |
+| [Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) |
+
+
+<a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
+  <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="70" alt="Lynx theme">
+</a>
+
+| :---: |
+| [Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) |
