@@ -39,7 +39,7 @@
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-      Codepen
+      <p>ㅤㅤㅤㅤㅤ</p>
     </td>
     <!-- Celda derecha: contador y GIF -->
     <td style="text-align: right; vertical-align: middle;">
