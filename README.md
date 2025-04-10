@@ -39,15 +39,12 @@
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-      <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
+      Codepen
     </td>
     <!-- Celda derecha: contador y GIF -->
     <td style="text-align: right; vertical-align: middle;">
       <table style="display: inline-block; border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
         <tr>
-          <td style="padding-right: 6px;">
-            <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-          </td>
           <td>
             <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
           </td>
