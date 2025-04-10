@@ -42,6 +42,8 @@
 ---
 
 ## 🔸Design Tool I Use
+
+<!-- prettier-ignore-start -->
 | Lynx theme |
 | :-: |
 |<img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="70" />|<img align="center" 
@@ -53,3 +55,18 @@
 | <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme"><img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" /></a> |
 | :-: |
 | **Lynx theme** |
+<!-- prettier-ignore-end -->
+
+<h2 align="left"><br>🛠 Skills 🛠 </h2>
+
+<table align="center" width="20%" style="table-layout: fixed">
+  <table align="center" width="20%" style="table-layout: fixed">
+    <tr align="center">
+      <th> Lynx Theme </th>
+      <th> Testing </th>
+    </tr>
+    <tr align="center">
+      <td> <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer"><img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="cplusplus" width="40" height="40"/></a> </td>
+      <td> <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer"><img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="git" width="40" height="40"/></a> </td>
+    </tr>
+  </table>
