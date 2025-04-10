@@ -139,3 +139,40 @@
     <th>Lynx Theme</th>
   </tr>
 </table>
+
+
+
+<!-- Opción 1: Usando tablas HTML con estructura simple -->
+<table align="center">
+  <tr align="center">
+    <td bgcolor="#f6f8fa">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70"/>
+      </a>
+    </td>
+    <td bgcolor="#f6f8fa">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      </a>
+    </td>
+    <td bgcolor="#f6f8fa">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <th>Lynx Theme</th>
+    <th>Lynx Theme</th>
+    <th>Lynx Theme</th>
+  </tr>
+</table>
+
+<!-- Opción 2: Alternativa de Markdown puro con HTML mínimo -->
+<div align="center">
+
+|  [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default){width=70}](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)  |  [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default){width=70}](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)  |  [![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default){width=70}](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)  |
+|:---:|:---:|:---:|
+| **Lynx Theme** | **Lynx Theme** | **Lynx Theme** |
+
+</div>
