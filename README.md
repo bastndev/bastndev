@@ -94,8 +94,6 @@
   </tr>
 </table>
 
-
-
 <div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px;">
   <!-- prettier-ignore-start -->
   
@@ -125,4 +123,12 @@
 | <img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="70" /> | [Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) | <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme"><img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" /></a> |
   
   <!-- prettier-ignore-end -->
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  
+| <img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="70" /> | [Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) | <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme"><img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" /></a> |
+| :-: | :-: | :-: |
+| Lynx theme | Lynx Theme | **Lynx theme** |
+  
 </div>
