@@ -54,3 +54,53 @@
 
 [buymeacoffe]: https://buymeacoffee.com/bastndev
 [codepen]: https://codepen.io/bastndev
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Enlaces alineados a la izquierda -->
+  <div>
+    <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
+    <a href="https://codepen.io/bastndev" target="_blank">Codepen</a>
+  </div>
+
+  <!-- Contador de visitas y GIF alineados a la derecha -->
+  <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
+    <tr>
+      <!-- Columna para el contador -->
+      <td>
+        <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+      </td>
+      <!-- Columna para el GIF con tamaño ajustado -->
+      <td style="padding-right: 6px;">
+        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!--  -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Enlaces alineados a la izquierda -->
+  <div>
+    <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
+    <a href="https://codepen.io/bastndev" target="_blank">Codepen</a>
+  </div>
+
+  <!-- Contador de visitas y GIF alineados a la derecha -->
+  <div>
+    <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
+      <tr>
+        <!-- Columna para el contador -->
+        <td>
+          <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+        </td>
+        <!-- Columna para el GIF con tamaño ajustado -->
+        <td style="padding-right: 6px;">
+          <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+[buymeacoffe]: https://buymeacoffee.com/bastndev
+[codepen]: https://codepen.io/bastndev
