@@ -37,9 +37,7 @@
     <td style="text-align: left; vertical-align: middle;">
       <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
       <a href="https://codepen.io/bastndev" target="_blank">Codepen</a> |
-      <p >𓀞𓀟𓀠𓀡𓀢𓀣𓀤𓀥𓀦𓀧𓀨𓀩𓀪𓀫𓀬𓀀
-𓁆𓁇𓁈𓁉𓁊𓁋𓁌𓁍𓁎𓁏𓁐𓁑𓁒𓁓𓁔𓁕
-𓀭𓀮𓀯𓀰𓀱𓀲𓀳𓀴𓀵𓀶𓀷𓀸𓀹𓀺𓀻𓀼</p> |
+      <p >$¢€£¥₩₽₹¤₱₦ƒ₮৲৳₨௹฿៛₪₫₭₲₴₵﷼≋₿ŁÐ₳</p> |
     </td>
     <!-- Celda derecha: contador y GIF -->
     <td style="text-align: right; vertical-align: middle;">
