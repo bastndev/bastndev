@@ -61,6 +61,7 @@
   </tr>
 </table>
 
+
 <table align="center" width="100%" style="table-layout: fixed; border-collapse: collapse;">
   <tr align="center">
     <td style="width: 33%;">
@@ -105,8 +106,8 @@
     </td>
   </tr>
   <tr align="center">
-    <th>Lynx Theme</th>
-    <th>Pumba</th>
-    <th>Lynx package</th>
+    <th style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Lynx Theme</th>
+    <th style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Pumba</th>
+    <th style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Lynx package</th>
   </tr>
 </table>
