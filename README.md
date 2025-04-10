@@ -7,20 +7,23 @@
   </table>
 </div>
 
---- 
+---
 
-<p align="center">
-  <samp>
-    <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">theme</a> .
-    <a href="https://www.linkedin.com/in/bastndev/">Linkedin</a> .
-  </samp>
-</p>
+## VScode Extensions 🔵
 
-## VScode Extensions  🌎
-[Theme][theme]  |
-[LinkedIn][linkedin]
+| [![theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)      |
+|:----------------------------------------------------------------------------------------: |
+| **[Lynx theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)**                                          |
 
-[theme]: https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme
-[linkedin]: https://www.linkedin.com/in/bastndev/
+
+
+[Link]: https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme
+[logo]: https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default
 
 ---
+
+## VScode Extensions 🔵
+
+| ![Lynx Theme](https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default) |
+|:-------------------------------------------------------------------------------------------------------------------:|
+| **[Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme)**                             |
