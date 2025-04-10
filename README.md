@@ -59,8 +59,8 @@
 
 <h2 align="left"><br>🛠 Skills 🛠 </h2>
 
-<table align="center" width="20%" style="table-layout: fixed">
-  <table align="center" width="20%" style="table-layout: fixed">
+<table align="center" width="70%" style="table-layout: fixed">
+  <table align="center" width="70%" style="table-layout: fixed">
     <tr align="center">
       <th> Lynx Theme </th>
       <th> Testing </th>
