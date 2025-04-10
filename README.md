@@ -60,3 +60,28 @@
     <th>Lynx Theme theme</th>
   </tr>
 </table>
+
+<table align="center" width="100%" style="table-layout: fixed; border-collapse: collapse;">
+  <tr align="center">
+    <td style="width: 33%;">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      </a>
+    </td>
+    <td style="width: 33%;">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      </a>
+    </td>
+    <td style="width: 33%;">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      </a>
+    </td>
+  </tr>
+  <tr align="center">
+    <th style="width: 33%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Lynx Theme</th>
+    <th style="width: 33%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Sad</th>
+    <th style="width: 33%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Lynx Theme theme</th>
+  </tr>
+</table>
