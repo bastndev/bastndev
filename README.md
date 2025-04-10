@@ -1,10 +1,8 @@
-<div style="position: fixed; top: 8px; right: 8px; font-size: 10px; z-index: 999;">
-  <table style="border-collapse: collapse;">
+<div align="center">
+  <table style="border-collapse: collapse; font-size: 12px;">
     <tr>
-      <td style="padding-right: 4px;">Visitors:</td>
-      <td>
-        <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" style="height: 12px;" />
-      </td>
+      <td style="padding-right: 5px;">Visitors: 👁️</td>
+      <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
 </div>
