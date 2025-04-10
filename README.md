@@ -19,17 +19,21 @@
 [logo]: https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default
 
 ---
-
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
-    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="theme" width="60">
-  </a>
-  <br>
-  <strong><a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">Lynx theme</a></strong>
-
-  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
-    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="theme" width="60">
-  </a>
-  <br>
-  <strong><a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">Lynx theme</a></strong>
+  <span style="display: inline-block; width: 100px; text-align: center; margin: 10px; border: 1px solid #ccc; padding: 10px;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
+      <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="theme" width="60">
+    </a>
+    <br>
+    <strong><a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">Lynx theme</a></strong>
+  </span>
+  
+  <span style="display: inline-block; width: 100px; text-align: center; margin: 10px; border: 1px solid #ccc; padding: 10px;">
+    <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
+      <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="theme" width="60">
+    </a>
+    <br>
+    <strong><a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">Lynx theme2</a></strong>
+  </span>
 </p>
+
