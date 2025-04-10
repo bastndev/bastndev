@@ -43,6 +43,8 @@
 
 ## 🔸Design Tool I Use
 
+<div align="center" display="flex">
+
 <!-- prettier-ignore-start -->
 | Lynx theme |
 | :-: |
@@ -56,6 +58,8 @@
 | :-: |
 | **Lynx theme** |
 <!-- prettier-ignore-end -->
+
+</div>
 
 <h2 align="left"><br>🛠 Skills 🛠 </h2>
 
@@ -89,3 +93,36 @@
     <th>Testing</th>
   </tr>
 </table>
+
+
+
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 30px;">
+  <!-- prettier-ignore-start -->
+  
+  <div style="text-align: center; margin: 10px;">
+    <p>Lynx theme</p>
+    <img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="70" />
+  </div>
+  
+  <div style="text-align: center; margin: 10px;">
+    <p>Lynx Theme</p>
+    <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">Lynx Theme</a>
+  </div>
+  
+  <div style="text-align: center; margin: 10px;">
+    <p><strong>Lynx theme</strong></p>
+    <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme"><img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" /></a>
+  </div>
+  
+  <!-- prettier-ignore-end -->
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- prettier-ignore-start -->
+  
+| Lynx theme | Lynx Theme | **Lynx theme** |
+| :-: | :-: | :-: |
+| <img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="figma" width="70" /> | [Lynx Theme](https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme) | <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme"><img align="center" src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" /></a> |
+  
+  <!-- prettier-ignore-end -->
+</div>
