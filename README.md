@@ -106,7 +106,7 @@
   </tr>
   <tr align="center">
     <th>Lynx Theme</th>
-    <th>Lynx package</th>
     <th>Pumba</th>
+    <th>Lynx package</th>
   </tr>
 </table>
