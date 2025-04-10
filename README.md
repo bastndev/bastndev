@@ -31,7 +31,7 @@
   </tr>
   <tr align="center">
     <th>Lynx Theme</th>
-    <th>Lynx Theme</th>
+    <th>Sad</th>
     <th>Lynx Theme</th>
   </tr>
 </table>
@@ -56,7 +56,7 @@
   </tr>
   <tr align="center">
     <th>Lynx Theme</th>
-    <th>Lynx Theme</th>
+    <th>Sad </th>
     <th>Lynx Theme</th>
   </tr>
 </table>
