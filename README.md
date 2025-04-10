@@ -58,6 +58,6 @@
   <tr align="center">
     <th>Lynx Theme</th>
     <th>Pumba</th>
-    <th>Lynx package</th>
+    <th>Lynx pack...</th>
   </tr>
 </table>
