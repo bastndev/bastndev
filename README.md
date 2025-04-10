@@ -24,21 +24,13 @@
 
 ---
 
-<table  align="center">
-  <tr>
-    <td align="center">
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo"/><br />
-        <sub><b>Lynx Theme</b></sub>
-      </a><br />
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" title="Ver en Marketplace">🎨</a>
-    </td>
-    <td align="center">
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo"/><br />
-        <sub><b>Lynx Theme</b></sub>
-      </a><br />
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" title="Ver en Marketplace">🎨</a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" style="text-align: center; text-decoration: none;">
+    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px" alt="Lynx Theme Logo" />
+    <div><b>Lynx Theme</b></div>
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" style="text-align: center; text-decoration: none;">
+    <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px" alt="Lynx Theme Logo" />
+    <div><b>Lynx Theme</b></div>
+  </a>
+</div>
