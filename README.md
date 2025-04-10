@@ -30,13 +30,13 @@
 ---
 
 <!-- Visor counter  -->
-<div align="left">
+<div align="right">
   <!-- Tabla con borde y estilo mejorado -->
   <table style="border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
     <tr>
       <!-- Columna para el GIF con tamaño ajustado -->
       <td style="padding-right: 6px;">
-        <img src="https://i.pinimg.com/originals/a5/2f/f1/a52ff125d2dfa36b0c2992d8b82e5598.gif" alt="Eye GIF" width="20" height="20" />
+        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="40" />
       </td>
       <!-- Columna para el contador -->
       <td>
