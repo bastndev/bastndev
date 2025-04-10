@@ -37,10 +37,22 @@
       <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
-<div align="right">
+<div >
 
 <div align="center">
 <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
 <div align="right">
 
-<td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
+<div align="left">
+  <table style="border: 2px solid #ccc; border-radius: 8px; padding: 5px; border-collapse: collapse; font-size: 20px;">
+    <tr>
+      <td style="padding-right: 8px;">
+        <img src="https://i.pinimg.com/originals/a5/2f/f1/a52ff125d2dfa36b0c2992d8b82e5598.gif" alt="Eye GIF" width="24" height="24" />
+      </td>
+      <td>
+        <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+      </td>
+    </tr>
+  </table>
+</div>
+
