@@ -1,13 +1,4 @@
-<div align="right">
-  <table style="border-collapse: collapse; font-size: 20px;">
-    <tr>
-      <td style="padding-right: 5px;"> 👁️ </td>
-      <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
-    </tr>
-  </table>
-</div>
-
----
+<!-- Vscode extensions -->
 
 ## VScode Extensions 🔵
 
@@ -35,3 +26,15 @@
     <th>Lynx pack...</th>
   </tr>
 </table>
+
+<!-- Visor counter  -->
+<div align="right">
+  <table style="border-collapse: collapse; font-size: 20px;">
+    <tr>
+      <td style="padding-right: 5px;"> 👁️ </td>
+      <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
+    </tr>
+  </table>
+</div>
+
+---
