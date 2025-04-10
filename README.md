@@ -25,20 +25,16 @@
 ---
 
 <table  align="center">
-  <tr>
-    <td align="center">
+    <td >
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo"/><br />
         <sub><b>Lynx Theme</b></sub>
       </a><br />
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" title="Ver en Marketplace">🎨</a>
     </td>
-    <td align="center">
+    <td >
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme">
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" width="100px;" alt="Lynx Theme Logo"/><br />
-        <sub><b>Lynx Theme</b></sub>
+        <sub><b>Lynx Theme 2</b></sub>
       </a><br />
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" title="Ver en Marketplace">🎨</a>
     </td>
-  </tr>
 </table>
