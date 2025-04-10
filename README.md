@@ -27,6 +27,8 @@
   </tr>
 </table>
 
+---
+
 <!-- Visor counter  -->
 <div align="right">
   <table style="border-collapse: collapse; font-size: 20px;">
@@ -35,6 +37,10 @@
       <td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
     </tr>
   </table>
-</div>
+<div align="right">
 
----
+<div align="center">
+<td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
+<div align="right">
+
+<td><img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" /></td>
