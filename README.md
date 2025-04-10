@@ -36,7 +36,7 @@
     <tr>
       <!-- Columna para el GIF con tamaño ajustado -->
       <td style="padding-right: 6px;">
-        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="40" />
+        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
       </td>
       <!-- Columna para el contador -->
       <td>
