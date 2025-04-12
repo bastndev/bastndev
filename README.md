@@ -15,15 +15,21 @@
       </a>
     </td>
     <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.0.2/1744496126092/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
+      </a>
+    </td>
+    <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack" target="_blank" rel="noreferrer">
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.0.1/1744432206458/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
       </a>
     </td>
   </tr>
   <tr align="center">
-    <th>Theme</th>
-    <th>Keymap</th>
-    <th>Lynx pack...</th>
+    <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
+    <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
+    <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
+    <th><a href="https://github.com/bastndev/LynxJS-Pack">Package</a></th>
   </tr>
 </table>
 
