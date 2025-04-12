@@ -10,8 +10,8 @@
       </a>
     </td>
     <td width="111px">
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap/0.2.1/1744423672521/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
       </a>
     </td>
     <td>
