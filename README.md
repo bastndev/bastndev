@@ -15,8 +15,8 @@
       </a>
     </td>
     <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-theme" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.0.1/1744432206458/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
       </a>
     </td>
   </tr>
