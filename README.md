@@ -21,8 +21,8 @@
     </td>
   </tr>
   <tr align="center">
-    <th>Lynx Theme</th>
-    <th>Pumba</th>
+    <th>Theme</th>
+    <th>Keymap</th>
     <th>Lynx pack...</th>
   </tr>
 </table>
