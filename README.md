@@ -29,7 +29,7 @@
     <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
     <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
-    <th><a href="https://github.com/bastndev/LynxJS-Pack">Package</a></th>
+    <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
   </tr>
 </table>
 
