@@ -16,7 +16,7 @@
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.0.2/1744496126092/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.1.0/1744647571560/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
       </a>
     </td>
     <td>
