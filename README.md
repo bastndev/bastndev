@@ -26,7 +26,7 @@
     </td>
         <td>
       <a href="https://marketplace.visualstudio.com/publishers/bastndev" target="_blank" rel="noreferrer">
-        <img src="https://github.com/bastndev/plus.web/raw/main/assets/img/plus.web.png" alt="plus.web" width="70" />
+        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/plus.webp" alt="lynx theme" width="70" />
       </a>
     </td>
   </tr>
