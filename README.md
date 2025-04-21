@@ -24,12 +24,18 @@
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.1.0/1745191579610/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
       </a>
     </td>
+        <td>
+      <a href="https://marketplace.visualstudio.com/publishers/bastndev" target="_blank" rel="noreferrer">
+        <img src="https://github.com/bastndev/plus.web/raw/main/assets/img/plus.web.png" alt="plus.web" width="70" />
+      </a>
+    </td>
   </tr>
   <tr align="center">
     <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
     <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
     <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
+    <th>MORE</th>
   </tr>
 </table>
 
