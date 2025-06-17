@@ -43,10 +43,10 @@
 
 for freelance work? do reach, [email](gobasdevk@gmail.com) :)
 
-  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px;">
+  <p align="right" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-  </div>
-
+    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+  </p>
 <!-- Visor counter  -->
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
