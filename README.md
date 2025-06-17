@@ -1,6 +1,6 @@
 <!-- Vscode extensions -->
 
-## VScode Extensions 🔵
+## 💙 VScode Extensions
 
 <table align="center" width="100%" style="table-layout: fixed">
   <tr align="center">
@@ -42,15 +42,11 @@
 ---
 
 <!-- Visor counter  -->
-
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
     <!-- Left cell: links -->
     <td style="text-align: left; vertical-align: middle;">
-      <a href="https://buymeacoffee.com/bastndev" target="_blank">Buy me a coffee</a> | 
-      <a href="https://codepen.io/bastndev" target="_blank">Code pen</a> |
-      <a href="https://codepen.io/bastndev" target="_blank">.1:55 / 3:50
-      ◁◁  ▐  ▌  ▷▷ ───○─ 🔊⠀ ᴴᴰ</a>
+      <a href="https://codepen.io/bastndev" target="_blank">CodePen</a> 
     </td>
     <!-- Right cell: counter and GIF -->
     <td style="text-align: right; vertical-align: middle;">
