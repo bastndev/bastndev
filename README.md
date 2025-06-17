@@ -42,6 +42,11 @@
 </br>
 <!-- Visor counter  -->
 
-  <p align="center" style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <span style="font-size: 1.1em;">Hola Gohit.</span>
+  <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+</div>
+
+  <!-- <p align="center" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-  </p>
+  </p> -->
