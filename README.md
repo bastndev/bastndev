@@ -41,6 +41,15 @@
 
 ---
 
+  <tr>
+    <td style="padding-right: 8px;">
+      <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="Visitor Count" width="80" />
+    </td>
+    <td>
+      <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye Animation" title="Visitors" width="32" style="vertical-align: middle;" />
+    </td>
+  </tr>
+
 <!-- Visor counter  -->
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
