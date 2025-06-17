@@ -41,6 +41,8 @@
 
 <!-- Visor counter  -->
 
+## 💙 or freelance work? do reach, [CodePen](https://codepen.io/bastndev) :)
+
 ###### for freelance work? do reach, [CodePen](https://codepen.io/bastndev) :)
 
   <p align="right" style="display: flex; align-items: center; gap: 10px;">
