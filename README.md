@@ -40,6 +40,14 @@
 </table>
 
 </br>
+  <p align="center" style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://codepen.io/bastndev" target="_blank" rel="noopener noreferrer">
+      <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+      <br/>
+      <span>Visita mi CodePen</span>
+    </a>
+  </p>
+
 <!-- Visor counter  -->
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
