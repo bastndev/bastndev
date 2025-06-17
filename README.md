@@ -42,11 +42,11 @@
 ---
 
   <tr>
-    <td style="padding-right: 8px;">
-      <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="Visitor Count" width="80" />
-    </td>
     <td>
-      <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye Animation" title="Visitors" width="32" style="vertical-align: middle;" />
+      <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
+    </td>
+    <td style="padding-right: 6px;">
+      <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
     </td>
   </tr>
 
