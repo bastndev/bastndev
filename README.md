@@ -1,6 +1,6 @@
 <!-- Vscode extensions -->
 
-## ⚪️ VScode Extensions
+## ⚪️ VScode Extensions ㅤㅤㅤ
 
 <table align="center" width="100%" style="table-layout: fixed">
   <tr align="center">
