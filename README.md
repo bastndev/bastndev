@@ -41,25 +41,11 @@
 
 ---
 
-Option this is option is fist option
+for freelance work? do reach, [email](gobasdevk@gmail.com) :)
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+  <div style="display: flex; justify-content: flex-end; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
   </div>
-
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
-
-  <table width="100%" style="border: none;">
-    <tr>
-      <td></td>
-      <td align="right" style="vertical-align: middle;">
-        <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-        <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-        Hola
-      </td>
-    </tr>
-  </table>
 
 <!-- Visor counter  -->
 <table style="width: 100%; border: none; border-collapse: collapse;">
