@@ -39,8 +39,6 @@
   </tr>
 </table>
 
----
-
 <!-- Visor counter  -->
 
 for freelance work? do reach, [CodePen](https://codepen.io/bastndev) :)
