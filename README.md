@@ -43,8 +43,6 @@
 
 <!-- Visor counter  -->
 
-  <p align="right" style="display: flex; align-items: center; gap: 10px;">
+  <p align="center" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
   </p>
-
-[CodePen](https://codepen.io/bastndev)
