@@ -39,11 +39,11 @@
   </tr>
 </table>
 
+for freelance work? do reach, [CodePen](https://codepen.io/bastndev) :)
+
 ---
 
 <!-- Visor counter  -->
-
-for freelance work? do reach, [CodePen](https://codepen.io/bastndev) :)
 
   <p align="right" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
