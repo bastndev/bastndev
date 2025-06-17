@@ -39,6 +39,7 @@
   </tr>
 </table>
 
+</br>
 <!-- Visor counter  -->
 
   <p align="center" style="display: flex; align-items: center; gap: 10px;">
