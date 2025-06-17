@@ -48,7 +48,7 @@ Option this is option is fist option
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
   </div>
 
-this is option is second option
+for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
 
   <table width="100%" style="border: none;">
     <tr>
