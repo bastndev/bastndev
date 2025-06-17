@@ -39,9 +39,11 @@
   </tr>
 </table>
 
+---
+
 <!-- Visor counter  -->
 
-### [CodePen](https://codepen.io/bastndev)
+[CodePen](https://codepen.io/bastndev)
 
   <p align="right" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
