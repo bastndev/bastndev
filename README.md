@@ -41,30 +41,10 @@
 
 ---
 
-for freelance work? do reach, [email](gobasdevk@gmail.com) :)
+<!-- Visor counter  -->
+
+for freelance work? do reach, [CodePen](https://codepen.io/bastndev) :)
 
   <p align="right" style="display: flex; align-items: center; gap: 10px;">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
   </p>
-<!-- Visor counter  -->
-<table style="width: 100%; border: none; border-collapse: collapse;">
-  <tr>
-    <!-- Left cell: links -->
-    <td style="text-align: left; vertical-align: middle;">
-      <a href="https://codepen.io/bastndev" target="_blank">CodePen</a> 
-    </td>
-    <!-- Right cell: counter and GIF -->
-    <td style="text-align: right; vertical-align: middle;">
-      <table style="display: inline-block; border: 1px solid #ccc; border-radius: 6px; padding: 4px; border-collapse: collapse; font-size: 16px;">
-        <tr>
-          <td>
-            <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
-          </td>
-          <td style="padding-right: 6px;">
-            <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
