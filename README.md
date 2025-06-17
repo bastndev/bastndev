@@ -53,11 +53,11 @@ this is option is second option
   <table width="100%" style="border: none;">
     <tr>
       <td align="left" style="vertical-align: middle;">
-        Hola
-      </td>
-      <td align="right" style="vertical-align: middle;">
         <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
         <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f441.gif" alt="Eye GIF" width="30" />
+      </td>
+      <td align="right" style="vertical-align: middle;">
+        Hola
       </td>
     </tr>
   </table>
