@@ -43,7 +43,7 @@
 
 <!-- Visor counter  -->
   <p align="center" style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://codepen.io/bastndev" target="_blank" rel="noopener noreferrer">
+    <a href="https://codepen.io/bastndev" rel="noopener noreferrer">
       <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" />
     </a>
   </p>
