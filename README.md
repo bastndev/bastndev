@@ -1,4 +1,4 @@
-<img src=".github/assets/img/w5.png" alt="GitHub Banner" width="100%" />
+<img src=".github/assets/img/w6.png" alt="GitHub Banner" width="100%" />
 
 <!-- Vscode extensions -->
 
