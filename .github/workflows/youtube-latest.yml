@@ -1,0 +1,18 @@
+name: Último video de YouTube
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Se ejecuta cada hora
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Agregar último video de YouTube al README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC1SrBBxff-ONko-0QKL1Bng"
