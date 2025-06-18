@@ -9,9 +9,10 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td> 
+  <span> </span>
       <a href="https://github.com/bastndev">
-        <img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px" />ㅤChinese
+        <img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px" /> Chinese
       </a>
     </td>
   </tr>
