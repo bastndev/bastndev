@@ -24,12 +24,27 @@
   <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
 </h2>
 
-```python
-class bastndev:
-  nickname = "bastndev"
-  work = "Microsoft"
-  skills = ["Dart", "TypeScript", "JavaScript", "Tailwind", "Node.js"]
-  interests = ["UI", "AI", "Coding"]
+```typescript
+class Person {
+  nickname: string = "bastndev";
+  education: string = "autodidact";
+  research: string[] = ["FrontEnd", "Mobile", "AI", "Cyber Security"];
+  interest: string[] = ["Reading", "Coding", "UI", "AI"];
+  skills: string[] = [
+    "Dart",
+    "Ts",
+    "JS",
+    "Tailwind",
+    "Node.js",
+    "Dart",
+    "TypeScript",
+  ];
+  work: string = "Microsoft";
+
+  communication(): string {
+    return "gobasdev@gmail.com";
+  }
+}
 ```
 
 <!-- Vscode extensions -->
