@@ -24,16 +24,19 @@
   <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
 </h2>
 
-```sh
+```py
 class 👤 {
-  nickname: string = 'bastndev';
-  education: string = 'autodidact';
-  research: string[] = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
-  interest: string[] = ['Reading', 'Coding', 'UI', 'AI'];
-  skills: string[] = ['Dart', 'Ts', 'JS', 'Tailwind', 'Node.js', 'Dart', 'TypeScript'];
-  work: string = 'Microsoft';
+  nickname = 'bastndev';
+  education = 'autodidact';
+  research = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
+  interests = ['Reading', 'Coding', 'UI', 'AI'];
+  skills = [
+    'Dart', 'TypeScript', 'JavaScript', 
+    'Tailwind', 'Node.js'
+  ];
+  work = 'Microsoft';
 
-  communication(): string {
+  contact() {
     return 'gobasdev@gmail.com';
   }
 }
