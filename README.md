@@ -26,16 +26,10 @@
 
 ```python
 class bastndev:
-    def __init__(self):
-        self.nickname = 'bastndev'
-        self.education = 'autodidact'
-        self.research = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security']
-        self.interest = ['Reading', 'Coding', 'UI', 'AI']
-        self.skills = ['Dart', 'Ts', 'JS', 'Tailwind', 'Node.js', 'Dart', 'TypeScript']
-        self.work = 'Microsoft'
-
-    def communication(self):
-        email = gobasdev@gmail.com
+  nickname = "bastndev"
+  work = "Microsoft"
+  skills = ["Dart", "TypeScript", "JavaScript", "Tailwind", "Node.js"]
+  interests = ["UI", "AI", "Coding"]
 ```
 
 <!-- Vscode extensions -->
