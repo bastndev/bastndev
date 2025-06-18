@@ -1,7 +1,7 @@
 <!-- Top [Presentation] -->
 <img src=".github/assets/img/w17.png" alt="GitHub Banner" width="100%" />
 
-<!-- About ME -->
+<!-- Flag US/CN -->
 <table align="right">
   <tr>
     <td>
@@ -18,10 +18,148 @@
   </tr>
 </table>
 
+<!-- About ME -->
 <h2>
   About ME
   <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
 </h2>
+
+class BastnDev:
+"""
+Perfil profesional de BastnDev - Full Stack Developer
+"""
+
+    def __init__(self):
+        # Información personal
+        self.nickname = 'bastndev'
+        self.name = 'Sebastián'
+        self.role = 'Full Stack Developer'
+        self.location = 'Lima, Perú'
+
+        # Educación
+        self.education = {
+            'degree': 'Ingeniería de Sistemas',
+            'specialization': 'Desarrollo de Software',
+            'certifications': [
+                'AWS Solutions Architect',
+                'React Developer',
+                'Node.js Specialist'
+            ]
+        }
+
+        # Áreas de investigación y especialización
+        self.research_areas = [
+            'Full Stack Development',
+            'Cloud Architecture',
+            'DevOps & CI/CD',
+            'API Development',
+            'Database Design',
+            'Web Performance Optimization'
+        ]
+
+        # Intereses profesionales
+        self.interests = [
+            'Open Source Contributing',
+            'Tech Blogging',
+            'Code Review',
+            'Mentoring',
+            'System Architecture',
+            'Continuous Learning'
+        ]
+
+        # Stack tecnológico
+        self.tech_stack = {
+            'frontend': ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Vue.js'],
+            'backend': ['Node.js', 'Python', 'Express.js', 'FastAPI', 'Django'],
+            'databases': ['PostgreSQL', 'MongoDB', 'Redis', 'MySQL'],
+            'cloud': ['AWS', 'Docker', 'Kubernetes', 'Vercel', 'Netlify'],
+            'tools': ['Git', 'VS Code', 'Postman', 'Jest', 'Cypress'],
+            'languages': ['JavaScript', 'TypeScript', 'Python', 'Go', 'Rust']
+        }
+
+        # Experiencia laboral actual
+        self.current_work = {
+            'position': 'Senior Full Stack Developer',
+            'focus': 'Web Applications & API Development',
+            'technologies': ['React', 'Node.js', 'PostgreSQL', 'AWS']
+        }
+
+        # Proyectos destacados
+        self.featured_projects = [
+            {
+                'name': 'E-commerce Platform',
+                'tech': ['Next.js', 'Stripe API', 'PostgreSQL'],
+                'description': 'Plataforma completa de comercio electrónico'
+            },
+            {
+                'name': 'Task Management API',
+                'tech': ['Node.js', 'Express', 'MongoDB'],
+                'description': 'API RESTful para gestión de tareas'
+            },
+            {
+                'name': 'Portfolio Website',
+                'tech': ['React', 'Tailwind CSS', 'Framer Motion'],
+                'description': 'Portafolio personal con animaciones'
+            }
+        ]
+
+    def get_contact_info(self):
+        """
+        Retorna información de contacto
+        """
+        return {
+            'github': 'https://github.com/bastndev',
+            'linkedin': 'https://linkedin.com/in/bastndev',
+            'email': 'contact@bastndev.com',
+            'portfolio': 'https://bastndev.com',
+            'twitter': '@bastndev'
+        }
+
+    def get_current_status(self):
+        """
+        Estado actual profesional
+        """
+        return {
+            'availability': 'Open to opportunities',
+            'looking_for': ['Full Stack roles', 'Tech Lead positions', 'Remote work'],
+            'current_learning': ['Rust', 'Machine Learning', 'System Design'],
+            'open_to_collaborate': True
+        }
+
+    def display_profile(self):
+        """
+        Muestra un resumen del perfil profesional
+        """
+        print(f"👨‍💻 {self.name} ({self.nickname})")
+        print(f"🚀 {self.role} from {self.location}")
+        print(f"💼 {self.current_work['position']}")
+        print(f"🛠️  Main Stack: {', '.join(self.tech_stack['frontend'][:3])}")
+        print(f"🌟 Focus: {self.current_work['focus']}")
+        print(f"📧 Contact: {self.get_contact_info()['email']}")
+
+    def __str__(self):
+        return f"BastnDev - {self.role} specializing in {', '.join(self.research_areas[:3])}"
+
+    def __repr__(self):
+        return f"BastnDev(nickname='{self.nickname}', role='{self.role}', location='{self.location}')"
+
+# Ejemplo de uso
+
+if **name** == "**main**":
+developer = BastnDev()
+developer.display_profile()
+
+    print("\n" + "="*50)
+    print("TECH STACK COMPLETO:")
+    for category, technologies in developer.tech_stack.items():
+        print(f"{category.upper()}: {', '.join(technologies)}")
+
+    print("\n" + "="*50)
+    print("PROYECTOS DESTACADOS:")
+    for project in developer.featured_projects:
+        print(f"• {project['name']}: {project['description']}")
+        print(f"  Tech: {', '.join(project['tech'])}")
+        print()
 
 <!-- Vscode extensions -->
 
