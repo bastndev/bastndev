@@ -5,7 +5,7 @@
 <table align="right">
   <tr>
     <td>
-      <img src=".github/assets/img/us_flag.png" alt="US flag" width="17px" /> English
+      <img src=".github/assets/img/us_flag.png" alt="US flag" width="37px" /> English
     </td>
   </tr>
   <tr>
@@ -18,8 +18,8 @@
 </table>
 
 <h2>
-  About MEㅤ
-  <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="22px" style="vertical-align: middle; margin-left: 6px;"/>
+  About ME
+  <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
 </h2>
 
 <!-- Vscode extensions -->
