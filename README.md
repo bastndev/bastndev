@@ -39,14 +39,11 @@ class 👤 {
 ```
 <!-- Youtube chanel -->
 ### 📺 Latest YouTube Videos
-
 <!-- BEGIN YOUTUBE-CARDS -->
-[![How to Build a VSCode Extension from Scratch](https://ytcards.demolab.com/?id=abcd1234&title=How+to+Build+a+VSCode+Extension+from+Scratch&lang=en&timestamp=1712345678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=900 "How to Build a VSCode Extension from Scratch")](https://www.youtube.com/watch?v=abcd1234)
-[![Top 5 Tailwind CSS Tips for Developers](https://ytcards.demolab.com/?id=efgh5678&title=Top+5+Tailwind+CSS+Tips+for+Developers&lang=en&timestamp=1712345688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600 "Top 5 Tailwind CSS Tips for Developers")](https://www.youtube.com/watch?v=efgh5678)
-[![AI Tools Every Programmer Should Know](https://ytcards.demolab.com/?id=ijkl9012&title=AI+Tools+Every+Programmer+Should+Know&lang=en&timestamp=1712345698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200 "AI Tools Every Programmer Should Know")](https://www.youtube.com/watch?v=ijkl9012)
+[![Video 1](https://ytcards.demolab.com/?id=SNN2cU8zOEQ&title=Video+1&lang=en&timestamp=1712345678&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=900 "Video 1")](https://www.youtube.com/watch?v=SNN2cU8zOEQ&t=1287s)
+[![Video 2](https://ytcards.demolab.com/?id=JxN7_dceS94&title=Video+2&lang=en&timestamp=1712345688&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600 "Video 2")](https://www.youtube.com/watch?v=JxN7_dceS94&t=4s)
+[![Video 3](https://ytcards.demolab.com/?id=a6JQkAxYf3A&title=Video+3&lang=en&timestamp=1712345698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1200 "Video 3")](https://www.youtube.com/watch?v=a6JQkAxYf3A&t=49s)
 <!-- END YOUTUBE-CARDS -->
-
-#
 
 <!-- Vscode extensions -->
 
