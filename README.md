@@ -26,23 +26,15 @@
 
 ```typescript
 class Person {
-  nickname: string = "bastndev";
-  education: string = "autodidact";
-  research: string[] = ["FrontEnd", "Mobile", "AI", "Cyber Security"];
-  interest: string[] = ["Reading", "Coding", "UI", "AI"];
-  skills: string[] = [
-    "Dart",
-    "Ts",
-    "JS",
-    "Tailwind",
-    "Node.js",
-    "Dart",
-    "TypeScript",
-  ];
-  work: string = "Microsoft";
+  nickname: string = 'bastndev';
+  education: string = 'autodidact';
+  research: string[] = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
+  interest: string[] = ['Reading', 'Coding', 'UI', 'AI'];
+  skills: string[] = ['Dart', 'Ts', 'JS', 'Tailwind', 'Node.js', 'Dart', 'TypeScript'];
+  work: string = 'Microsoft';
 
   communication(): string {
-    return "gobasdev@gmail.com";
+    return 'gobasdev@gmail.com';
   }
 }
 ```
