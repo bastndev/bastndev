@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
 </h2>
 
-```ts
+```sh
 class 👤 {
   nickname: string = 'bastndev';
   education: string = 'autodidact';
