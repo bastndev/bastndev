@@ -31,7 +31,7 @@ class 👤 {
   research  = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
   interests = ['Reading', 'Coding', 'UI', 'AI'];
   skills    = ['TypeScript', 'JavaScript', 'Tailwind', 'Node.js', 'Dart'];
-  work = 'Microsoft';
+  work      = 'Microsoft';
 
   contact() {
     return 'gobasdev@gmail.com';
