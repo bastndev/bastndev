@@ -5,7 +5,7 @@
 <table align="right">
   <tr>
     <td>
-      <img src=".github/assets/img/us_flag.png" alt="US flag" width="19px" /> English
+      <img src=".github/assets/img/us_flag.png" alt="US flag" width="21px" /> English
     </td>
   </tr>
   <tr>
