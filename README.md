@@ -41,6 +41,11 @@ class 👤 {
 ## 📺 Último video en YouTube
 
 <!-- BLOG-POST-LIST:START -->
+- [Extension para Vscode Dark thema 2025  #reels](https://www.youtube.com/shorts/h7F9kvvQOLw)
+- [Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts](https://www.youtube.com/shorts/_IAXOqjpmkQ)
+- [cursor AI en #linux solucionado el ERROR del comando &#39;cursor .&#39; SOLUCIÓN paso a paso 💪](https://www.youtube.com/watch?v=WWU3C3m-pGQ)
+- [¡Sincroniza VS Code en TODO LUGAR! 🔗 ¡Perfiles personalizados para #linux  y más! 💻](https://www.youtube.com/watch?v=uT0HI-ufZ0A)
+- [¡¡¡ERROR DE ARRASSE EN LINUX!!! ¡¿Wayland a X11 rompe tus ventanas?! #linux](https://www.youtube.com/shorts/DpceJhyMm94)
 <!-- BLOG-POST-LIST:END -->
 
 
