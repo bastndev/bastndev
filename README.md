@@ -11,6 +11,7 @@
   <tr>
     <td>
       <a href="https://github.com/bastndev">
+      <span> </span>
         <img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px" /> Chinese
       </a>
     </td>
