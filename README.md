@@ -30,9 +30,8 @@ class 👤 {
   education = 'autodidact';
   research = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
   interests = ['Reading', 'Coding', 'UI', 'AI'];
-  skills = [
-    'Dart', 'TypeScript', 'JavaScript', 
-    'Tailwind', 'Node.js'
+  skills = ['TypeScript', 'JavaScript', 
+    'Tailwind', 'Node.js', 'Dart'
   ];
   work = 'Microsoft';
 
