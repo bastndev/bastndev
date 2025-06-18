@@ -19,25 +19,31 @@
 </table>
 
 <!-- About ME -->
-<h2 align="center">
-  About ME
-  <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
-</h2>
+<details>
+  <summary>
+    <h2 style="display: inline; cursor: pointer;">
+      About ME
+      <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="20px" style="vertical-align: middle; margin-left: 6px;"/>
+    </h2>
+  </summary>
 
-```typescript
-class Person {
-  nickname: string = 'bastndev';
-  education: string = 'autodidact';
-  research: string[] = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
-  interest: string[] = ['Reading', 'Coding', 'UI', 'AI'];
-  skills: string[] = ['Dart', 'Ts', 'JS', 'Tailwind', 'Node.js', 'Dart', 'TypeScript'];
-  work: string = 'Microsoft';
+  <br/>
 
-  communication(): string {
-    return 'gobasdev@gmail.com';
+  ```typescript
+  class Person {
+    nickname: string = 'bastndev';
+    education: string = 'autodidact';
+    research: string[] = ['FrontEnd', 'Mobile', 'AI', 'Cyber Security'];
+    interest: string[] = ['Reading', 'Coding', 'UI', 'AI'];
+    skills: string[] = ['Dart', 'Ts', 'JS', 'Tailwind', 'Node.js', 'Dart', 'TypeScript'];
+    work: string = 'Microsoft';
+
+    communication(): string {
+      return 'gobasdev@gmail.com';
+    }
   }
-}
-```
+  ```
+</details>
 
 <!-- Vscode extensions -->
 
