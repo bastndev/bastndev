@@ -1,6 +1,14 @@
 <!-- Top [Presentation] -->
 <img src=".github/assets/img/w17.png" alt="GitHub Banner" width="100%" />
 
+<!-- About ME -->
+<table align="right">
+ <tr><td><a href="https://github.com/bastndev"><img src=".github/assets/img/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/bastndev"><img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px"> Chinese</a></td></tr>
+</table>
+
+<h2>👤 About ME</h2>
+
 <!-- Vscode extensions -->
 
 ## ⚪️ VScode Extensions ㅤㅤㅤ
