@@ -15,8 +15,13 @@
       </a>
     </td>
   </tr>
-<h2> About Me</h2>
 </table>
+
+<h2>
+  About ME 
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" alt="Git Icon" width="22px" style="vertical-align: middle; margin-left: 1px;"/>
+  <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/2024/IMG/Gif/verify.gif" alt="verify gif" width="22px" style="vertical-align: middle; margin-left: 6px;"/>
+</h2>
 
 <!-- Vscode extensions -->
 
