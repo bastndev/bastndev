@@ -15,9 +15,8 @@
       </a>
     </td>
   </tr>
+<h2> About Me</h2>
 </table>
-
-<h2>👤 About Me</h2>
 
 <!-- Vscode extensions -->
 
