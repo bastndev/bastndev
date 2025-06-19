@@ -49,7 +49,7 @@ class 🧑‍💻 {
 
 <!-- Vscode extensions -->
 
-## ⚪️ VScode Extensions ㅤㅤㅤ
+## 🔵 VScode [Extensions](https://open-vsx.org/namespace/bastndev)
 
 <table align="center" width="100%" style="table-layout: fixed">
   <tr align="center">
