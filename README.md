@@ -22,6 +22,10 @@
 
 ## About [ME](https://www.bastndev.com)
 
+```py
+  Hello
+```
+
 ```rs
 class 🧑‍💻 {
   nickname  = 'bastndev';
