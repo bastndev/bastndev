@@ -45,13 +45,6 @@ class 🧑‍💻 {
 ## 🔴 Latest videos [Youtube](https://youtube.com/bastndev?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE‑CARDS -->
-
-[![Tarjeta 1](...)](...)
-
-[![Tarjeta 2](...)](...)
-
-[![Tarjeta 3](...)](...)
-
 <!-- END YOUTUBE‑CARDS -->
 
 <!-- Vscode extensions -->
