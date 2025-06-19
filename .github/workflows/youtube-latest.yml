@@ -21,6 +21,12 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           max_videos: 3
-          card_width: 300
-          border_radius: 10
+          card_width: 290
+          border_radius: 8
           max_title_lines: 2
+
+      - name: Add extra spacing between cards
+        run: |
+          sed -i '/BEGIN YOUTUBE-CARDS/,/END YOUTUBE-CARDS/{
+            s/)](/)](\n\n/g
+          }' README.md
