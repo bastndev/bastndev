@@ -5,7 +5,7 @@
 <table align="right">
   <tr>
     <td>
-      <img src=".github/assets/img/us_flag.png" alt="US flag" width="17px" /> English
+      <img src=".github/assets/img/us_flag.png" alt="US flag" width="23px" /> English
     </td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
 
 <!-- About ME -->
 
-# [ㅤ](https://open-vsx.org/namespace/bastndev)
+# About [ME](https://open-vsx.org/namespace/bastndev)
 
 ```sh
 class 🧑‍💻 {
