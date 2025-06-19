@@ -1,17 +1,18 @@
-name: Latest YouTube Video on:   
-  schedule:     
-    # Runs every hour, on the hour     
-    - cron: "0 * * * *"   
-  workflow_dispatch:  
+name: Latest YouTube Video
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
-jobs:   
-  build:     
-    runs-on: ubuntu-latest     
-    permissions:       
-      contents: write      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-    steps:       
-      - uses: DenverCoder1/github-readme-youtube-cards@main         
-        with:           
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
           channel_id: UC1SrBBxff-ONko-0QKL1Bng
           max_videos: 3
