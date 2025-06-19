@@ -23,4 +23,4 @@ jobs:
           max_videos: 3
           card_width: 279
           border_radius: 10
-          max_title_lines: 2
+          max_title_lines: 1
