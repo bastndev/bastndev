@@ -33,7 +33,7 @@ class 🧑‍💻 {
   interests = ['Linux', 'Mobile', 'FrontEnd', 'UI/UX', 'AI'];
   work      = 'Microsoft';
   From      = 'Peru 🇵🇪';
-  os        = 'Linux';
+  os        = 'Linux :D';
   contact() {
     return 'gobasdev@gmail.com';
   }
