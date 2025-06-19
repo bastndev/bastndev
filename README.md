@@ -45,6 +45,31 @@ class 🧑‍💻 {
 ## 🔴 Latest videos [Youtube](https://youtube.com/bastndev?sub_confirmation=1)
 
 <!-- YOUTUBE-CARDS:START -->
+
+    <a href="https://www.youtube.com/watch?v=SNN2cU8zOEQ">
+      <img src="https://i.ytimg.com/vi/SNN2cU8zOEQ/mqdefault.jpg" alt="La GUÍA de Linux: Comandos, Apps, Paquetes y Websites que deberías conocer y usar ¡YA!! 2025" width="320" height="180">
+      <br>
+      <strong>La GUÍA de Linux: Comandos, Apps, Paquetes y Websites que deberías conocer y usar ¡YA!! 2025</strong>
+      <br>
+      <span>⏱️ 42:38</span>
+    </a>
+    <br><br>
+    <a href="https://www.youtube.com/watch?v=GmItICIcX6g">
+      <img src="https://i.ytimg.com/vi/GmItICIcX6g/mqdefault.jpg" alt="Paquetes Flatpak vs. Snap vs. .DEB vs. RPM 🚀 ¿Cuál es el Mejor en 2025?" width="320" height="180">
+      <br>
+      <strong>Paquetes Flatpak vs. Snap vs. .DEB vs. RPM 🚀 ¿Cuál es el Mejor en 2025?</strong>
+      <br>
+      <span>⏱️ 7:57</span>
+    </a>
+    <br><br>
+    <a href="https://www.youtube.com/watch?v=JxN7_dceS94">
+      <img src="https://i.ytimg.com/vi/JxN7_dceS94/mqdefault.jpg" alt="Mejores Herramientas para Linux 🐧 2025 | Alternativas Potentes a Software de Windows" width="320" height="180">
+      <br>
+      <strong>Mejores Herramientas para Linux 🐧 2025 | Alternativas Potentes a Software de Windows</strong>
+      <br>
+      <span>⏱️ 20:22</span>
+    </a>
+    <br><br>
 <!-- YOUTUBE-CARDS:END -->
 
 <!-- Vscode extensions -->
