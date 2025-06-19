@@ -44,8 +44,8 @@ class 🧑‍💻 {
 
 ## 🔴 Latest videos [Youtube](https://youtube.com/bastndev?sub_confirmation=1)
 
-<!-- BEGIN YOUTUBE‑CARDS -->
-<!-- END YOUTUBE‑CARDS -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <!-- Vscode extensions -->
 
