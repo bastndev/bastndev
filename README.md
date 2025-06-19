@@ -32,8 +32,8 @@ class 🧑‍💻 {
   skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
   interests = ['Linux', 'Mobile', 'FrontEnd', 'UI/UX', 'AI'];
   work      = 'Microsoft';
-  os        = 'Linux :D';
   From      = 'Peru 🇵🇪';
+  os        = 'Debian';
   contact() {
     return 'gobasdev@gmail.com';
   }
