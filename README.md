@@ -22,20 +22,6 @@
 
 ## About [ME](https://www.bastndev.com)
 
-```py
-class 🧑‍💻 {
-  nickname  = 'bastndev';
-  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
-  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
-  work      = 'Microsoft';
-  From      = 'Peru 🇵🇪'
-  os        = 'Linux';
-  contact() {
-    return 'gobasdev@gmail.com';
-  }
-}
-```
-
 ```rs
 class 🧑‍💻 {
   nickname  = 'bastndev';
@@ -50,21 +36,7 @@ class 🧑‍💻 {
 }
 ```
 
-```dart
-class 🧑‍💻 {
-  nickname  = 'bastndev';
-  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
-  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
-  work      = 'Microsoft';
-  From      = 'Peru 🇵🇪'
-  os        = 'Linux';
-  contact() {
-    return 'gobasdev@gmail.com';
-  }
-}
-```
-
-```go
+```py
 class 🧑‍💻 {
   nickname  = 'bastndev';
   skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
