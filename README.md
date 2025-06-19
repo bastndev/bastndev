@@ -42,7 +42,7 @@ class 🧑‍💻 {
 
 <!-- Youtube chanel -->
 
-## 🔴 Latest videos [Youtube](https://youtube.com/midudev?sub_confirmation=1)
+## 🔴 Latest videos [Youtube](https://youtube.com/bastndev?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
