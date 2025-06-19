@@ -35,7 +35,6 @@ class 👤 {
   contact() {
     return 'gobasdev@gmail.com';
   }
-}
 ```
 <!-- Youtube chanel -->
 ## 📺 Último video en YouTube
