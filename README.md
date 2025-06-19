@@ -30,7 +30,7 @@
 class 🧑‍💻 {
   nickname  = 'bastndev';
   skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
-  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI', 'UI/UX'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'UI/UX', 'AI'];
   work      = 'Microsoft';
   From      = 'Peru 🇵🇪';
   os        = 'Linux';
