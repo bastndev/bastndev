@@ -24,9 +24,3 @@ jobs:
           card_width: 290
           border_radius: 8
           max_title_lines: 2
-
-      - name: Add extra spacing between cards
-        run: |
-          sed -i '/BEGIN YOUTUBE-CARDS/,/END YOUTUBE-CARDS/{
-            s/)](/)](\n\n/g
-          }' README.md
