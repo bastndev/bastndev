@@ -80,7 +80,7 @@ class 🧑‍💻 {
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/publishers/bastndev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="55" />
+        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="70" />
       </a>
     </td>
   </tr>
@@ -89,7 +89,7 @@ class 🧑‍💻 {
     <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
     <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
-    <th><a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx">Bracket</a></th>
+    <th><a href="https://github.com/bastndev/Bracket-Lynx">Bracket</a></th>
     <th>MORE</th>
   </tr>
 </table>
