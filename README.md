@@ -1,5 +1,5 @@
 <!-- Top [Presentation] -->
-<img src=".github/assets/img/e4.png" alt="GitHub Banner" width="100%" />
+<img src=".github/assets/img/a1.png" alt="GitHub Banner" width="100%" />
 
 <!-- Flag US/CN -->
 <table align="right">
