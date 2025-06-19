@@ -39,10 +39,10 @@ class 👤 {
 
 <!-- Youtube chanel -->
 
-## 📺 Youtube Videos
+## 📺 Latest YouTube Videos
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 
 <!-- Vscode extensions -->
 
