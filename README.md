@@ -20,7 +20,7 @@
 
 <!-- About ME -->
 
-# [@bastndev](https://open-vsx.org/namespace/bastndev)
+# [ㅤ](https://open-vsx.org/namespace/bastndev)
 
 ```sh
 class 🧑‍💻 {
