@@ -73,7 +73,12 @@ class 🧑‍💻 {
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.1.0/1745191579610/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70" />
       </a>
     </td>
-        <td>
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="70" />
+      </a>
+    </td>
+    <td>
       <a href="https://marketplace.visualstudio.com/publishers/bastndev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="55" />
       </a>
@@ -84,6 +89,7 @@ class 🧑‍💻 {
     <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
     <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
+    <th><a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx">Bracket</a></th>
     <th>MORE</th>
   </tr>
 </table>
