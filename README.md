@@ -36,20 +36,6 @@ class 🧑‍💻 {
 }
 ```
 
-```py
-class 🧑‍💻 {
-  nickname  = 'bastndev';
-  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
-  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
-  work      = 'Microsoft';
-  From      = 'Peru 🇵🇪'
-  os        = 'Linux';
-  contact() {
-    return 'gobasdev@gmail.com';
-  }
-}
-```
-
 <!-- Youtube chanel -->
 
 ## 🔴 Latest videos [Youtube](https://youtube.com/midudev?sub_confirmation=1)
