@@ -85,7 +85,7 @@ class 🧑‍💻 {
     </td>
     <td>
       <a href="https://marketplace.visualstudio.com/publishers/bastndev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="70" />
+        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="60" />
       </a>
     </td>
   </tr>
