@@ -21,3 +21,4 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           max_videos: 3
+          min_duration: 60
