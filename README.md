@@ -22,10 +22,10 @@
 
 ## About [ME](https://www.bastndev.com)
 
-```ts
+```js
 class 🧑‍💻 {
   nickname  = 'bastndev';
-  skills    = ['LynxJS', 'JS', 'CSS', 'TS', 'Tailwind', 'Flutter', 'Dart'];
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
   interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
   work      = 'Microsoft';
   From      = 'Peru 🇵🇪'
@@ -33,6 +33,203 @@ class 🧑‍💻 {
   contact() {
     return 'gobasdev@gmail.com';
   }
+}
+```
+
+```ts
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```py
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```sh
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```rs
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```dart
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```php
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```go
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```java
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```cpp
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```rb
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```ts
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```swift
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```kt
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
+```
+
+```cs
+class 🧑‍💻 {
+  nickname  = 'bastndev';
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
+  work      = 'Microsoft';
+  From      = 'Peru 🇵🇪'
+  os        = 'Linux';
+  contact() {
+    return 'gobasdev@gmail.com';
+  }
+}
 ```
 
 <!-- Youtube chanel -->
