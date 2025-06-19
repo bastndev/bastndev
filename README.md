@@ -37,7 +37,7 @@ class 🧑‍💻 {
 
 <!-- Youtube chanel -->
 
-## 📺 Latest video [Youtube](https://youtube.com/midudev?sub_confirmation=1)
+## 🔴 Latest videos [Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
