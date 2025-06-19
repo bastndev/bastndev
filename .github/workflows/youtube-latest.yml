@@ -1,42 +1,19 @@
-name: Latest YouTube Videos (Long Format Only)
+name: Latest YouTube Video
 
 on:
   schedule:
-    # Runs every 6 hours to reduce API calls
-    - cron: "0 */6 * * *"
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
-  update-youtube-cards:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Update YouTube Cards
-        uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC1SrBBxff-ONko-0QKL1Bng
-          # Filter out YouTube Shorts (videos shorter than 60 seconds)
-          max_videos: 12
-          show_duration: true
-          # Custom styling for horizontal videos
-          card_width: 250
-          border_radius: 8
-          background_color: "#0d1117"
-          title_color: "#f0f6fc"
-          stats_color: "#7d8590"
-          # Additional filters
-          cache_time: 21600 # 6 hours cache
-          output_only: false
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "Update YouTube video cards - $(date)"
-          git push
+          params: "EgIQAQ%3D%3D" # Excluye YouTube Shorts
