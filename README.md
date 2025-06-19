@@ -45,7 +45,6 @@ class 🧑‍💻 {
 ## 🔴 Latest videos [Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 <!-- Vscode extensions -->
