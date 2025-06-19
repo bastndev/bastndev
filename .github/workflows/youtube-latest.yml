@@ -22,3 +22,5 @@ jobs:
           show_duration: true
           max_videos: 3
           exclude_shorts: true
+          aspect_ratio: "16:9"
+          min_duration: 60
