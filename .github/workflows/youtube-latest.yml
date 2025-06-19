@@ -15,11 +15,10 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC1SrBBxff-ONko-0QKL1Bng
-          # Método 1: Usar el parámetro para excluir Shorts
-          params: "EgIQAQ%3D%3D"
 
           # Método 2: Alternativa - filtrar por duración mínima
-          # params: "CAISAhAB" # Videos de más de 4 minutos
+          params: "CAISAhAB" # Videos de más de 4 minutos
+
 
           # Método 3: Combinar filtros
           # params: "EgIQAQ%3D%3D&sp=CAI%253D" # Excluir Shorts + ordenar por fecha
