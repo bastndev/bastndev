@@ -1,5 +1,5 @@
 <!-- Top [Presentation] -->
-<img src=".github/assets/img/e2.png" alt="GitHub Banner" width="100%" />
+<img src=".github/assets/img/e4.png" alt="GitHub Banner" width="100%" />
 
 <!-- Flag US/CN -->
 <table align="right">
@@ -32,7 +32,7 @@ class 🧑‍💻 {
   skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
   interests = ['Linux', 'Mobile', 'FrontEnd', 'AI'];
   work      = 'Microsoft';
-  From      = 'Peru 🇵🇪'
+  From      = 'Peru 🇵🇪';
   os        = 'Linux';
   contact() {
     return 'gobasdev@gmail.com';
