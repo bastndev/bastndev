@@ -23,7 +23,7 @@
 ## About [ME](https://www.bastndev.com)
 
 ```py
-  Hello
+  Hello welcome to my profile 😼
 ```
 
 ```rs
