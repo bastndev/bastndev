@@ -42,12 +42,9 @@ class 🧑‍💻 {
 
 <!-- Youtube chanel -->
 
-## 🔴 Latest videos [Youtube](https://youtube.com/bastndev?sub_confirmation=1)
+## 🔴 Latest videos [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Extension para Vscode Dark thema 2025  #reels](https://ytcards.demolab.com/?id=h7F9kvvQOLw&title=Extension+para+Vscode+Dark+thema+2025++%23reels&lang=en&timestamp=1744517996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=277&border_radius=10&duration=38 "Extension para Vscode Dark thema 2025  #reels")](https://www.youtube.com/shorts/h7F9kvvQOLw)
-[![Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts](https://ytcards.demolab.com/?id=_IAXOqjpmkQ&title=Descubr%C3%AD+proyectos+ocultos+de+%23linux++%F0%9F%90%A7%F0%9F%92%BB+y+%7C+Necesito+tu+ayuda+para+encontrar+m%C3%A1s+%23shorts&lang=en&timestamp=1743826045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=277&border_radius=10&duration=60 "Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts")](https://www.youtube.com/shorts/_IAXOqjpmkQ)
-[![cursor AI en #linux solucionado el ERROR del comando 'cursor .' SOLUCIÓN paso a paso 💪](https://ytcards.demolab.com/?id=WWU3C3m-pGQ&title=cursor+AI+en+%23linux+solucionado+el+ERROR+del+comando+%27cursor+.%27+SOLUCI%C3%93N+paso+a+paso+%F0%9F%92%AA&lang=en&timestamp=1741627493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=277&border_radius=10&duration=67 "cursor AI en #linux solucionado el ERROR del comando 'cursor .' SOLUCIÓN paso a paso 💪")](https://www.youtube.com/watch?v=WWU3C3m-pGQ)
 <!-- END YOUTUBE-CARDS -->
 
 <!-- Vscode extensions -->
