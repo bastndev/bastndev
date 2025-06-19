@@ -1,5 +1,4 @@
 name: Latest YouTube Video
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -14,13 +13,154 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          channel_id: UC1SrBBxff-ONko-0QKL1Bng
-          comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
-          max_videos: 3
-          exclude_shorts: true
-          aspect_ratio: "16:9"
-          min_duration: 60
+          node-version: "18"
+
+      - name: Generate YouTube cards with duration filter
+        run: |
+          cat << 'EOF' > generate-youtube-cards.js
+          const https = require('https');
+          const fs = require('fs');
+
+          function makeRequest(url) {
+            return new Promise((resolve, reject) => {
+              https.get(url, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  try {
+                    resolve(JSON.parse(data));
+                  } catch (e) {
+                    reject(e);
+                  }
+                });
+              }).on('error', reject);
+            });
+          }
+
+          async function generateYouTubeCards() {
+            try {
+              const CHANNEL_ID = 'UC1SrBBxff-ONko-0QKL1Bng';
+              const API_KEY = process.env.YOUTUBE_API_KEY;
+              const MAX_RESULTS = 15; // Obtener más videos para filtrar
+              
+              console.log('Obteniendo videos del canal...');
+              
+              // Obtener videos del canal
+              const searchUrl = `https://www.googleapis.com/youtube/v3/search?key=${API_KEY}&channelId=${CHANNEL_ID}&part=snippet&order=date&type=video&maxResults=${MAX_RESULTS}`;
+              const searchData = await makeRequest(searchUrl);
+              
+              if (!searchData.items || searchData.items.length === 0) {
+                console.log('No se encontraron videos');
+                return;
+              }
+              
+              // Obtener detalles de duración
+              const videoIds = searchData.items.map(item => item.id.videoId).join(',');
+              const detailsUrl = `https://www.googleapis.com/youtube/v3/videos?key=${API_KEY}&id=${videoIds}&part=contentDetails,snippet,statistics`;
+              const detailsData = await makeRequest(detailsUrl);
+              
+              // Función para convertir duración ISO 8601 a segundos
+              function parseISO8601Duration(duration) {
+                const match = duration.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
+                const hours = parseInt(match[1] || 0);
+                const minutes = parseInt(match[2] || 0);
+                const seconds = parseInt(match[3] || 0);
+                return hours * 3600 + minutes * 60 + seconds;
+              }
+              
+              // Función para formatear duración
+              function formatDuration(seconds) {
+                const hours = Math.floor(seconds / 3600);
+                const minutes = Math.floor((seconds % 3600) / 60);
+                const secs = seconds % 60;
+                
+                if (hours > 0) {
+                  return `${hours}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+                }
+                return `${minutes}:${secs.toString().padStart(2, '0')}`;
+              }
+              
+              // Filtrar videos de al menos 3 minutos
+              const filteredVideos = detailsData.items
+                .filter(video => {
+                  const durationInSeconds = parseISO8601Duration(video.contentDetails.duration);
+                  return durationInSeconds >= 180; // 3 minutos mínimo
+                })
+                .slice(0, 3); // Tomar solo los 3 primeros
+              
+              console.log(`Videos encontrados que duran 3+ minutos: ${filteredVideos.length}`);
+              
+              // Generar HTML para las tarjetas
+              let cardsHTML = '';
+              
+              filteredVideos.forEach(video => {
+                const durationSeconds = parseISO8601Duration(video.contentDetails.duration);
+                const formattedDuration = formatDuration(durationSeconds);
+                const title = video.snippet.title.replace(/[<>&"]/g, (char) => ({
+                  '<': '&lt;',
+                  '>': '&gt;',
+                  '&': '&amp;',
+                  '"': '&quot;'
+                })[char]);
+                
+                cardsHTML += `
+              <a href="https://www.youtube.com/watch?v=${video.id}">
+                <img src="${video.snippet.thumbnails.medium.url}" alt="${title}" width="320" height="180">
+                <br>
+                <strong>${title}</strong>
+                <br>
+                <span>⏱️ ${formattedDuration}</span>
+              </a>
+              <br><br>`;
+              });
+              
+              // Leer el README actual
+              let readmeContent = '';
+              try {
+                readmeContent = fs.readFileSync('README.md', 'utf8');
+              } catch (e) {
+                console.log('README.md no encontrado, creando uno nuevo');
+                readmeContent = '# Mi Canal de YouTube\n\n<!-- YOUTUBE-CARDS:START -->\n<!-- YOUTUBE-CARDS:END -->\n';
+              }
+              
+              // Reemplazar el contenido entre los comentarios
+              const startComment = '<!-- YOUTUBE-CARDS:START -->';
+              const endComment = '<!-- YOUTUBE-CARDS:END -->';
+              
+              const startIndex = readmeContent.indexOf(startComment);
+              const endIndex = readmeContent.indexOf(endComment);
+              
+              if (startIndex !== -1 && endIndex !== -1) {
+                const newContent = readmeContent.substring(0, startIndex + startComment.length) +
+                  '\n' + cardsHTML + '\n' +
+                  readmeContent.substring(endIndex);
+                
+                fs.writeFileSync('README.md', newContent);
+                console.log('README.md actualizado exitosamente');
+              } else {
+                console.log('No se encontraron los comentarios YOUTUBE-CARDS en README.md');
+              }
+              
+            } catch (error) {
+              console.error('Error:', error.message);
+              process.exit(1);
+            }
+          }
+
+          generateYouTubeCards();
+          EOF
+
+          node generate-youtube-cards.js
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update YouTube cards (videos 3+ minutes only)"
+          git push
