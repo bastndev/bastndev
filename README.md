@@ -10,6 +10,8 @@
   <img src=".github/assets/svg/on8.svg" width="12%" alt="Contact bastndev">
 </div>
 
+</br>
+
 <!-- Flag US/CN -->
 <table align="right">
   <tr>
