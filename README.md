@@ -1,29 +1,13 @@
 <!-- Top [Presentation] -->
 <div>
-  <a href="https://x.com/bastndev">
-    <img src=".github/assets/svg/on1.svg" width="12%" height="120" alt="X (Twitter) @bastndev">
-  </a>
-  <a href="https://www.linkedin.com/in/bastndev/">
-    <img src=".github/assets/svg/on2.svg" width="12%" height="120" alt="LinkedIn bastndev">
-  </a>
-  <a href="https://bastndev.dev">
-    <img src=".github/assets/svg/on3.svg" width="13%" height="120" alt=" bastndev">
-  </a>
-  <a href="https://www.youtube.com/@bastndev">
-    <img src=".github/assets/svg/on4.svg" width="12%" height="120" alt="YouTube @bastndev">
-  </a>
-  <a href="https://twitch.tv/bastndev">
-    <img src=".github/assets/svg/on5.svg" width="12%" height="120" alt="Twitch bastndev">
-  </a>
-  <a href="https://github.com/bastndev">
-    <img src=".github/assets/svg/on6.svg" width="12%" height="120" alt="GitHub bastndev">
-  </a>
-  <a href="https://open-vsx.org/namespace/bastndev">
-    <img src=".github/assets/svg/on7.svg" width="13%" height="120" alt="Open VSX bastndev">
-  </a>
-  <a href="https://bastndev.com/contact">
-    <img src=".github/assets/svg/on8.svg" width="12%" height="120" alt="Contact bastndev">
-  </a>
+  <img src=".github/assets/svg/on1.svg" width="12%" height="120" alt="X (Twitter)">
+  <img src=".github/assets/svg/on2.svg" width="12%" height="120" alt="LinkedIn bastndev">
+  <img src=".github/assets/svg/on3.svg" width="13%" height="120" alt="bastndev">
+  <img src=".github/assets/svg/on4.svg" width="12%" height="120" alt="YouTube @bastndev">
+  <img src=".github/assets/svg/on5.svg" width="12%" height="120" alt="Twitch bastndev">
+  <img src=".github/assets/svg/on6.svg" width="12%" height="120" alt="GitHub bastndev">
+  <img src=".github/assets/svg/on7.svg" width="13%" height="120" alt="Open VSX bastndev">
+  <img src=".github/assets/svg/on8.svg" width="12%" height="120" alt="Contact bastndev">
 </div>
 
 <!-- Flag US/CN -->
