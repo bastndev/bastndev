@@ -1,5 +1,5 @@
 <!-- Top [Presentation] -->
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 12px;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;">
   <img src=".github/assets/svg/on1.svg" width="12%" height="120" alt="X (Twitter) @bastndev">
   <img src=".github/assets/svg/on2.svg" width="12%" height="120" alt="LinkedIn bastndev">
   <img src=".github/assets/svg/on3.svg" width="13%" height="120" alt="bastndev">
