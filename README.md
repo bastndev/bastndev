@@ -2,10 +2,10 @@
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;">
   <img src=".github/assets/svg/on1.svg" width="12%" alt="X (Twitter) @bastndev">
   <img src=".github/assets/svg/on2.svg" width="12%" alt="LinkedIn bastndev">
-  <img src=".github/assets/svg/on3.svg" width="12%" alt="bastndev">
-  <img src=".github/assets/svg/on4.svg" width="12%" alt="YouTube @bastndev">
-  <img src=".github/assets/svg/on5.svg" width="12%" alt="Twitch bastndev">
-  <img src=".github/assets/svg/on6.svg" width="12%" alt="GitHub bastndev">
+  <img src=".github/assets/svg/on3.svg" width="12.5%" alt="bastndev">
+  <img src=".github/assets/svg/on4.svg" width="11.5%" alt="YouTube @bastndev">
+  <img src=".github/assets/svg/on5.svg" width="11.5%" alt="Twitch bastndev">
+  <img src=".github/assets/svg/on6.svg" width="12.5%" alt="GitHub bastndev">
   <img src=".github/assets/svg/on7.svg" width="12%" alt="Open VSX bastndev">
   <img src=".github/assets/svg/on8.svg" width="12%" alt="Contact bastndev">
 </div>
