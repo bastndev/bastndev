@@ -1,5 +1,30 @@
 <!-- Top [Presentation] -->
-<img src=".github/assets/img/z2.png" alt="GitHub Banner" width="100%" />
+<div>
+  <a href="https://x.com/bastndev">
+    <img src=".github/assets/svg/on1.svg" width="12%" height="120" alt="X (Twitter) @bastndev">
+  </a>
+  <a href="https://www.linkedin.com/in/bastndev/">
+    <img src=".github/assets/svg/on2.svg" width="12%" height="120" alt="LinkedIn bastndev">
+  </a>
+  <a href="https://bastndev.dev">
+    <img src=".github/assets/svg/on3.svg" width="13%" height="120" alt=" bastndev">
+  </a>
+  <a href="https://www.youtube.com/@bastndev">
+    <img src=".github/assets/svg/on4.svg" width="12%" height="120" alt="YouTube @bastndev">
+  </a>
+  <a href="https://twitch.tv/bastndev">
+    <img src=".github/assets/svg/on5.svg" width="12%" height="120" alt="Twitch bastndev">
+  </a>
+  <a href="https://github.com/bastndev">
+    <img src=".github/assets/svg/on6.svg" width="12%" height="120" alt="GitHub bastndev">
+  </a>
+  <a href="https://open-vsx.org/namespace/bastndev">
+    <img src=".github/assets/svg/on7.svg" width="13%" height="120" alt="Open VSX bastndev">
+  </a>
+  <a href="https://bastndev.com/contact">
+    <img src=".github/assets/svg/on8.svg" width="12%" height="120" alt="Contact bastndev">
+  </a>
+</div>
 
 <!-- Flag US/CN -->
 <table align="right">
@@ -23,13 +48,13 @@
 ## About [ME](https://www.bastndev.com)
 
 ```py
-  Hello 👋 welcome to my profile...
+Hello 👋 welcome to my profile...
 ```
 
 ```rs
 class 🧑‍💻 {
   nickname  = 'bastndev';
-  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React','Supabase'];
+  skills    = ['LynxJS', 'Flutter', 'AstroJS', 'React', 'Supabase'];
   interests = ['Linux', 'Mobile', 'FrontEnd', 'UI/UX', 'AI'];
   work      = 'Microsoft';
   From      = 'Peru 🇵🇪';
@@ -40,7 +65,7 @@ class 🧑‍💻 {
 }
 ```
 
-<!-- Youtube chanel -->
+<!-- Youtube channel -->
 
 ## 🔴 Latest videos [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 
@@ -99,11 +124,11 @@ class 🧑‍💻 {
   </tr>
 </table>
 
-</br>
+<br/>
 
-<!-- Visor counter  -->
-  <p align="center" style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://codepen.io/bastndev" rel="noopener noreferrer">
-      <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="GitHub 😼" />
-    </a>
-  </p>
+<!-- Visitor counter -->
+<p align="center" style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://codepen.io/bastndev" rel="noopener noreferrer">
+    <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="GitHub 😼" />
+  </a>
+</p>
