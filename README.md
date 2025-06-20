@@ -12,9 +12,8 @@
 
 <!-- Flag US/CN -->
 <table align="right">
-</br>
   <tr>
-<P>ASD</P>
+  </br>
     <td>
       <img src=".github/assets/img/us_flag.png" alt="US flag" width="22px" /> English
     </td>
