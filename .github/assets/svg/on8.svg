@@ -1,9 +1,10 @@
 <svg class="fadeIn" version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 418" width="268" height="418">
 	<title>z3</title>
+	
 	<style>
 	  .fadeIn {
 	    opacity: 0;
-	    animation: fadeIn 1.5s linear 1.5s forwards;
+	    animation: fadeIn 1.1s linear 1.1s forwards;
 	  }
 
 	  @keyframes fadeIn {
