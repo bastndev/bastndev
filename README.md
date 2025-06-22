@@ -1,7 +1,7 @@
 <!-- Top [Presentation] -->
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;">
-  <a href="https://t.me/lynxjs_es">
-    <img src=".github/assets/svg/on1.svg" width="12%" alt="Telegram">
+  <a href="https://web.facebook.com/bastndev/">
+    <img src=".github/assets/svg/on1.svg" width="12%" alt="Facebook">
   </a>
   <a href="https://youtube.com/@bastndev?sub_confirmation=1">
     <img src=".github/assets/svg/on2.svg" width="12%" alt="YouTube">
@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/bastndev/">
     <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
   </a>
-  <a href="https://web.facebook.com/bastndev/">
-    <img src=".github/assets/svg/on6.svg" width="12.5%" alt="Facebook">
+  <a href="https://x.com/bastndev">
+    <img src=".github/assets/svg/on6.svg" width="12.5%" alt="X">
   </a>
   <a href="https://codepen.io/bastndev">
     <img src=".github/assets/svg/on7.svg" width="12%" alt="CodePen">
@@ -80,7 +80,7 @@ class 🧑‍💻 {
 
 <!-- Vscode extensions -->
 
-## 🔵 VScode [Extensions](https://open-vsx.org/namespace/bastndev)
+## 🔵 VScode [Extensions](https://marketplace.visualstudio.com/publishers/bastndev)
 
 <table align="center" width="100%" style="table-layout: fixed">
   <tr align="center">
@@ -110,7 +110,7 @@ class 🧑‍💻 {
       </a>
     </td>
     <td>
-      <a href="https://marketplace.visualstudio.com/publishers/bastndev" target="_blank" rel="noreferrer">
+      <a href="https://t.me/lynxjs_es" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="60" />
       </a>
     </td>
