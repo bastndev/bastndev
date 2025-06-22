@@ -1,13 +1,29 @@
 <!-- Top [Presentation] -->
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;">
-  <img src=".github/assets/svg/on1.svg" width="12%" alt="X (Twitter) @bastndev">
-  <img src=".github/assets/svg/on2.svg" width="12%" alt="LinkedIn bastndev">
-  <img src=".github/assets/svg/on3.svg" width="12.5%" alt="bastndev">
-  <img src=".github/assets/svg/on4.svg" width="11.5%" alt="YouTube @bastndev">
-  <img src=".github/assets/svg/on5.svg" width="11.5%" alt="Twitch bastndev">
-  <img src=".github/assets/svg/on6.svg" width="12.5%" alt="GitHub bastndev">
-  <img src=".github/assets/svg/on7.svg" width="12%" alt="Open VSX bastndev">
-  <img src=".github/assets/svg/on8.svg" width="12%" alt="Contact bastndev">
+  <a href="https://t.me/lynxjs_es" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on1.svg" width="12%" alt="Telegram @lynxJS_es">
+  </a>
+  <a href="https://youtube.com/@bastndev?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on2.svg" width="12%" alt="YouTube @bastndev">
+  </a>
+  <a href="https://bsky.app/profile/bastndev.com" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on3.svg" width="12.5%" alt="Bluesky @bastndev">
+  </a>
+  <a href="https://www.instagram.com/bastndev/" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on4.svg" width="12%" alt="Instagram @bastndev">
+  </a>
+  <a href="https://www.linkedin.com/in/bastndev/" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn bastndev">
+  </a>
+  <a href="https://github.com/bastndev" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on6.svg" width="12.5%" alt="GitHub bastndev">
+  </a>
+  <a href="https://codepen.io/bastndev" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on7.svg" width="12%" alt="CodePen">
+  </a>
+  <a href="https://www.bastndev.com/" target="_blank" rel="noopener noreferrer">
+    <img src=".github/assets/svg/on8.svg" width="12%" alt="Contact bastndev">
+  </a>
 </div>
 
 <!-- Flag US/CN -->
@@ -54,11 +70,13 @@ class 🧑‍💻 {
 
 ## 🔴 Latest videos [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 
+<!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Extension para Vscode Dark thema 2025  #reels](https://ytcards.demolab.com/?id=h7F9kvvQOLw&title=Extension+para+Vscode+Dark+thema+2025++%23reels&lang=en&timestamp=1744517996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=278&border_radius=10&duration=38 "Extension para Vscode Dark thema 2025  #reels")](https://www.youtube.com/shorts/h7F9kvvQOLw)
 [![Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts](https://ytcards.demolab.com/?id=_IAXOqjpmkQ&title=Descubr%C3%AD+proyectos+ocultos+de+%23linux++%F0%9F%90%A7%F0%9F%92%BB+y+%7C+Necesito+tu+ayuda+para+encontrar+m%C3%A1s+%23shorts&lang=en&timestamp=1743826045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=278&border_radius=10&duration=60 "Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts")](https://www.youtube.com/shorts/_IAXOqjpmkQ)
 [![cursor AI en #linux solucionado el ERROR del comando 'cursor .' SOLUCIÓN paso a paso 💪](https://ytcards.demolab.com/?id=WWU3C3m-pGQ&title=cursor+AI+en+%23linux+solucionado+el+ERROR+del+comando+%27cursor+.%27+SOLUCI%C3%93N+paso+a+paso+%F0%9F%92%AA&lang=en&timestamp=1741627493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=278&border_radius=10&duration=67 "cursor AI en #linux solucionado el ERROR del comando 'cursor .' SOLUCIÓN paso a paso 💪")](https://www.youtube.com/shorts/WWU3C3m-pGQ)
 <!-- END YOUTUBE-CARDS -->
+<!-- prettier-ignore-end -->
 
 <!-- Vscode extensions -->
 
