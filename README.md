@@ -10,7 +10,7 @@
     <img src=".github/assets/svg/on3.svg" width="12.5%" alt="Bluesky">
   </a>
   <a href="https://www.instagram.com/bastndev/">
-    <img src=".github/assets/svg/on4.svg" width="12%" alt="Instagram">
+    <img src=".github/assets/svg/on4.svg" width="11.5%" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/bastndev/">
     <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
