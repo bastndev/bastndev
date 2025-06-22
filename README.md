@@ -1,28 +1,28 @@
 <!-- Top [Presentation] -->
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;">
-  <a href="https://t.me/lynxjs_es" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on1.svg" width="12%" alt="Telegram @lynxJS_es">
+  <a href="https://t.me/lynxjs_es">
+    <img src=".github/assets/svg/on1.svg" width="12%" alt="Telegram">
   </a>
-  <a href="https://youtube.com/@bastndev?sub_confirmation=1" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on2.svg" width="12%" alt="YouTube @bastndev">
+  <a href="https://youtube.com/@bastndev?sub_confirmation=1">
+    <img src=".github/assets/svg/on2.svg" width="12%" alt="YouTube">
   </a>
-  <a href="https://bsky.app/profile/bastndev.com" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on3.svg" width="12.5%" alt="Bluesky @bastndev">
+  <a href="https://bsky.app/profile/bastndev.com">
+    <img src=".github/assets/svg/on3.svg" width="12.5%" alt="Bluesky">
   </a>
-  <a href="https://www.instagram.com/bastndev/" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on4.svg" width="12%" alt="Instagram @bastndev">
+  <a href="https://www.instagram.com/bastndev/">
+    <img src=".github/assets/svg/on4.svg" width="12%" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/bastndev/" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn bastndev">
+  <a href="https://www.linkedin.com/in/bastndev/">
+    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
   </a>
-  <a href="https://github.com/bastndev" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on6.svg" width="12.5%" alt="GitHub bastndev">
+  <a href="https://web.facebook.com/bastndev/">
+    <img src=".github/assets/svg/on6.svg" width="12.5%" alt="Facebook">
   </a>
-  <a href="https://codepen.io/bastndev" target="_blank" rel="noopener noreferrer">
+  <a href="https://codepen.io/bastndev">
     <img src=".github/assets/svg/on7.svg" width="12%" alt="CodePen">
   </a>
-  <a href="https://www.bastndev.com/" target="_blank" rel="noopener noreferrer">
-    <img src=".github/assets/svg/on8.svg" width="12%" alt="Contact bastndev">
+  <a href="https://www.bastndev.com/">
+    <img src=".github/assets/svg/on8.svg" width="12%" alt="Me">
   </a>
 </div>
 
