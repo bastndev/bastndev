@@ -1,5 +1,5 @@
 <!-- Top [Presentation] -->
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 0;" width="12%">
 
 [![Facebook](https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on1.svg)](https://web.facebook.com/bastndev/)
 
