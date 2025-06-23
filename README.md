@@ -2,28 +2,28 @@
 <div align="center"
 
   <a href="https://youtube.com/@bastndev?sub_confirmation=1">
-    <img src=".github/assets/svg/on1.svg" width="11%" alt="YouTube">
+    <img src=".github/assets/svg/on1.svg" width="11.5%" alt="YouTube">
   </a>
   <a href="https://youtube.com/@bastndev?sub_confirmation=1">
-    <img src=".github/assets/svg/on2.svg" width="11%" alt="YouTube">
+    <img src=".github/assets/svg/on2.svg" width="11.5%" alt="YouTube">
   </a>
   <a href="https://bsky.app/profile/bastndev.com">
-    <img src=".github/assets/svg/on3.svg" width="11%" alt="Bluesky">
+    <img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky">
   </a>
   <a href="https://www.instagram.com/bastndev/">
-    <img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram">
+    <img src=".github/assets/svg/on4.svg" width="11.5%" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/bastndev/">
-    <img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn">
+    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
   </a>
   <a href="https://x.com/bastndev">
-    <img src=".github/assets/svg/on6.svg" width="11%" alt="X">
+    <img src=".github/assets/svg/on6.svg" width="11.5%" alt="X">
   </a>
   <a href="https://codepen.io/bastndev">
-    <img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen">
+    <img src=".github/assets/svg/on7.svg" width="11.5%" alt="CodePen">
   </a>
   <a href="https://www.bastndev.com/">
-    <img src=".github/assets/svg/on8.svg" width="11%" alt="Me">
+    <img src=".github/assets/svg/on8.svg" width="11.5%" alt="Me">
   </a>
 </div>
 <!-- Flag US/CN -->
