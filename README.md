@@ -20,12 +20,13 @@
     <img src=".github/assets/svg/on6.svg" width="11.5%" alt="X">
   </a>
   <a href="https://codepen.io/bastndev">
-    <img src=".github/assets/svg/on7.svg" width="11.5%" alt="CodePen">
+    <img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen">
   </a>
   <a href="https://www.bastndev.com/">
     <img src=".github/assets/svg/on8.svg" width="11.5%" alt="Me">
   </a>
 </div>
+
 <!-- Flag US/CN -->
 <table align="right">
   <tr>
