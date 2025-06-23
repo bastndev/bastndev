@@ -21,7 +21,7 @@
 ## About [ME](https://www.bastndev.com)
 
 ```py
-Hello 👋 welcome to my profile...
+Hello 👋 welcome to my profile... [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 ```
 
 ```rs
