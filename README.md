@@ -6,8 +6,8 @@
   <a href="https://www.instagram.com/bastndev/"><img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/bastndev/"><img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn"></a>
   <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="Telegram"></a>
-  <a href="https://www.bastndev.com/ "><img src=".github/assets/svg/on7.svg" width="11%" alt="Website"></a>
-  <a href="https://codepen.io/bastndev"><img src=".github/assets/svg/on8.svg" width="12%" alt="CodePen"></a>
+  <a href="https://codepen.io/bastndev "><img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen"></a>
+  <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on8.svg" width="12%" alt="Dev.to"></a>
 </div>
 
 <!-- Flag US/CN -->
@@ -21,7 +21,7 @@
 ## About [ME](https://www.bastndev.com)
 
 ```py
-Hello 👋 welcome to my profile... [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
+Hello 👋 welcome to my profile...
 ```
 
 ```rs
