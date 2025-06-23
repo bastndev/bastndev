@@ -39,7 +39,6 @@ class 🧑‍💻 {
 ```
 
 <!-- Youtube channel -->
-
 ## 🔴 Latest videos [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 
 <div align="center">
@@ -53,7 +52,6 @@ class 🧑‍💻 {
 </div>
 
 <!-- Vscode extensions -->
-
 ## 🔵 VScode [Extensions](https://marketplace.visualstudio.com/publishers/bastndev)
 
 <table align="center" width="100%" style="table-layout: fixed">
