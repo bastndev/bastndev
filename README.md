@@ -5,7 +5,7 @@
   <a href="https://bsky.app/profile/bastndev.com"><img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky"></a>
   <a href="https://www.instagram.com/bastndev/"><img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/bastndev/"><img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn"></a>
-  <a href="https://t.me/lynxjs_es"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="Telegram"></a>
+  <a href="https://dev.to/bastndev"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="Telegram"></a>
   <a href="https://www.bastndev.com/ "><img src=".github/assets/svg/on7.svg" width="11%" alt="Website"></a>
   <a href="https://codepen.io/bastndev"><img src=".github/assets/svg/on8.svg" width="12%" alt="CodePen"></a>
 </div>
