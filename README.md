@@ -1,13 +1,13 @@
 <!-- Top [Presentation] -->
 <div align="center">
-  <a href="https://web.facebook.com/bastndev"><img src=".github/assets/svg/on1.svg" width="11.5%" alt="YouTube"></a>
-  <a href="https://www.tiktok.com/@bastndev"><img src=".github/assets/svg/on2.svg" width="12%" alt="YouTube"></a>
+  <a href="https://web.facebook.com/bastndev"><img src=".github/assets/svg/on1.svg" width="11.5%" alt="Facebook"></a>
+  <a href="https://www.tiktok.com/@bastndev"><img src=".github/assets/svg/on2.svg" width="12%" alt="TikTok"></a>
   <a href="https://bsky.app/profile/bastndev.com"><img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky"></a>
   <a href="https://www.instagram.com/bastndev/"><img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram"></a>
   <a href="https://www.linkedin.com/in/bastndev/"><img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn"></a>
-  <a href="https://x.com/bastndev"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="X"></a>
-  <a href="https://codepen.io/bastndev"><img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen"></a>
-  <a href="https://www.bastndev.com/"><img src=".github/assets/svg/on8.svg" width="12%" alt="Me"></a>
+  <a href="https://t.me/lynxjs_es"><img src=".github/assets/svg/on6.svg" width="11.5%" alt="Telegram"></a>
+  <a href="https://www.bastndev.com/ "><img src=".github/assets/svg/on7.svg" width="11%" alt="Website"></a>
+  <a href="https://codepen.io/bastndev"><img src=".github/assets/svg/on8.svg" width="12%" alt="CodePen"></a>
 </div>
 
 <!-- Flag US/CN -->
@@ -42,13 +42,15 @@ class 🧑‍💻 {
 
 ## 🔴 Latest videos [Youtube](https://youtube.com/@bastndev?sub_confirmation=1)
 
-<!-- prettier-ignore-start -->
+<div align="center">
+
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Extension para Vscode Dark thema 2025  #reels](https://ytcards.demolab.com/?id=h7F9kvvQOLw&title=Extension+para+Vscode+Dark+thema+2025++%23reels&lang=en&timestamp=1744517996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=278&border_radius=10&duration=38 "Extension para Vscode Dark thema 2025  #reels")](https://www.youtube.com/shorts/h7F9kvvQOLw)
 [![Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts](https://ytcards.demolab.com/?id=_IAXOqjpmkQ&title=Descubr%C3%AD+proyectos+ocultos+de+%23linux++%F0%9F%90%A7%F0%9F%92%BB+y+%7C+Necesito+tu+ayuda+para+encontrar+m%C3%A1s+%23shorts&lang=en&timestamp=1743826045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=278&border_radius=10&duration=60 "Descubrí proyectos ocultos de #linux  🐧💻 y | Necesito tu ayuda para encontrar más #shorts")](https://www.youtube.com/shorts/_IAXOqjpmkQ)
 [![cursor AI en #linux solucionado el ERROR del comando 'cursor .' SOLUCIÓN paso a paso 💪](https://ytcards.demolab.com/?id=WWU3C3m-pGQ&title=cursor+AI+en+%23linux+solucionado+el+ERROR+del+comando+%27cursor+.%27+SOLUCI%C3%93N+paso+a+paso+%F0%9F%92%AA&lang=en&timestamp=1741627493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=278&border_radius=10&duration=67 "cursor AI en #linux solucionado el ERROR del comando 'cursor .' SOLUCIÓN paso a paso 💪")](https://www.youtube.com/shorts/WWU3C3m-pGQ)
 <!-- END YOUTUBE-CARDS -->
-<!-- prettier-ignore-end -->
+
+</div>
 
 <!-- Vscode extensions -->
 
