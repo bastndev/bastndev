@@ -83,7 +83,7 @@ class 🧑‍💻 {
     </td>
     <td>
       <a href="https://t.me/lynxjs_es" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="40" />
+        <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="45" />
       </a>
     </td>
   </tr>
