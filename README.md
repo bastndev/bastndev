@@ -82,7 +82,7 @@ class 🧑‍💻 {
       </a>
     </td>
     <td>
-      <a href="https://t.me/lynxjs_es" target="_blank" rel="noreferrer">
+      <a href="https://open-vsx.org/namespace/bastndev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/bastndev/bastndev/refs/heads/main/.github/assets/img/more.webp" alt="lynx theme" width="45" />
       </a>
     </td>
@@ -101,7 +101,7 @@ class 🧑‍💻 {
 
 <!-- Visitor counter -->
 <p align="center" style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://codepen.io/bastndev" rel="noopener noreferrer">
+  <a href="https://solo.to/bastndev" rel="noopener noreferrer">
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="GitHub 😼" />
   </a>
 </p>
