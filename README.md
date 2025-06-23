@@ -1,51 +1,54 @@
 <!-- Top [Presentation] -->
 <div align="center" style="overflow-x: auto; white-space: nowrap;">
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on1.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on1.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on2.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on2.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on3.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on3.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on4.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on4.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on5.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on5.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on6.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on6.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on7.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on7.svg" width="60">
   </a>
   <a href="https://web.facebook.com/bastndev/">
-    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on8.svg" width="100">
+    <img src="https://raw.githubusercontent.com/bastndev/bastndev/f10a98b7c018c62c066f439d57331cb99f843052/.github/assets/svg/on8.svg" width="60">
   </a>
 </div>
 
   <a href="https://youtube.com/@bastndev?sub_confirmation=1">
-    <img src=".github/assets/svg/on2.svg" width="12%" alt="YouTube">
+    <img src=".github/assets/svg/on1.svg" width="11%" alt="YouTube">
+  </a>
+  <a href="https://youtube.com/@bastndev?sub_confirmation=1">
+    <img src=".github/assets/svg/on2.svg" width="11%" alt="YouTube">
   </a>
   <a href="https://bsky.app/profile/bastndev.com">
-    <img src=".github/assets/svg/on3.svg" width="12.5%" alt="Bluesky">
+    <img src=".github/assets/svg/on3.svg" width="11%" alt="Bluesky">
   </a>
   <a href="https://www.instagram.com/bastndev/">
-    <img src=".github/assets/svg/on4.svg" width="11.5%" alt="Instagram">
+    <img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/bastndev/">
-    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
+    <img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn">
   </a>
   <a href="https://x.com/bastndev">
-    <img src=".github/assets/svg/on6.svg" width="12.5%" alt="X">
+    <img src=".github/assets/svg/on6.svg" width="11%" alt="X">
   </a>
   <a href="https://codepen.io/bastndev">
-    <img src=".github/assets/svg/on7.svg" width="12%" alt="CodePen">
+    <img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen">
   </a>
   <a href="https://www.bastndev.com/">
-    <img src=".github/assets/svg/on8.svg" width="12%" alt="Me">
+    <img src=".github/assets/svg/on8.svg" width="11%" alt="Me">
   </a>
 
 <!-- Flag US/CN -->
