@@ -1,5 +1,6 @@
 <!-- Top [Presentation] -->
-<div align="center" 
+<div align="center"
+
   <a href="https://youtube.com/@bastndev?sub_confirmation=1">
     <img src=".github/assets/svg/on1.svg" width="11%" alt="YouTube">
   </a>
