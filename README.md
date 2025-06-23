@@ -11,19 +11,19 @@
     <img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky">
   </a>
   <a href="https://www.instagram.com/bastndev/">
-    <img src=".github/assets/svg/on4.svg" width="11.5%" alt="Instagram">
+    <img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/bastndev/">
-    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
+    <img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn">
   </a>
   <a href="https://x.com/bastndev">
-    <img src=".github/assets/svg/on6.svg" width="11.5%" alt="X">
+    <img src=".github/assets/svg/on6.svg" width="12%" alt="X">
   </a>
   <a href="https://codepen.io/bastndev">
     <img src=".github/assets/svg/on7.svg" width="11%" alt="CodePen">
   </a>
   <a href="https://www.bastndev.com/">
-    <img src=".github/assets/svg/on8.svg" width="11.5%" alt="Me">
+    <img src=".github/assets/svg/on8.svg" width="12%" alt="Me">
   </a>
 </div>
 
