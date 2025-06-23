@@ -33,7 +33,7 @@ class 🧑‍💻 {
   From      = 'Peru 🇵🇪';
   os        = 'Debian';
   contact() {
-    return 'gobasdev@gmail.com';
+    Email: gobasdev@gmail.com
   }
 }
 ```
