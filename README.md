@@ -4,7 +4,7 @@
     <img src=".github/assets/svg/on1.svg" width="11.5%" alt="YouTube">
   </a>
   <a href="https://youtube.com/@bastndev?sub_confirmation=1">
-    <img src=".github/assets/svg/on2.svg" width="11%" alt="YouTube">
+    <img src=".github/assets/svg/on2.svg" width="11.3%" alt="YouTube">
   </a>
   <a href="https://bsky.app/profile/bastndev.com">
     <img src=".github/assets/svg/on3.svg" width="12%" alt="Bluesky">
@@ -22,7 +22,7 @@
     <img src=".github/assets/svg/on7.svg" width="11.5%" alt="CodePen">
   </a>
   <a href="https://www.bastndev.com/">
-    <img src=".github/assets/svg/on8.svg" width="11%" alt="Me">
+    <img src=".github/assets/svg/on8.svg" width="11.2%" alt="Me">
   </a>
 </div>
 <!-- Flag US/CN -->
