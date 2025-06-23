@@ -37,10 +37,10 @@
     <img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky">
   </a>
   <a href="https://www.instagram.com/bastndev/">
-    <img src=".github/assets/svg/on4.svg" width="11.5%" alt="Instagram">
+    <img src=".github/assets/svg/on4.svg" width="11%" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/bastndev/">
-    <img src=".github/assets/svg/on5.svg" width="11.5%" alt="LinkedIn">
+    <img src=".github/assets/svg/on5.svg" width="11%" alt="LinkedIn">
   </a>
   <a href="https://x.com/bastndev">
     <img src=".github/assets/svg/on6.svg" width="11.5%" alt="X">
