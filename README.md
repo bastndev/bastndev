@@ -17,7 +17,6 @@
 </table>
 
 <!-- About ME -->
-
 ## About [ME](https://www.bastndev.com)
 
 ```py
