@@ -105,4 +105,3 @@ class 🧑‍💻 {
     <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="GitHub 😼" />
   </a>
 </p>
-<!-- Here new commentary -->
