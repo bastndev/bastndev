@@ -63,7 +63,7 @@ class 🧑‍💻 {
     </td>
     <td width="111px">
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap/0.9.3/1749179013475/Microsoft.VisualStudio.Services.Icons.Default" width="70" />
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap/0.9.6/1750900982281/Microsoft.VisualStudio.Services.Icons.Default" width="70" />
       </a>
     </td>
     <td>
