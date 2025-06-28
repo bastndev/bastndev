@@ -4,15 +4,18 @@
 	<style>
 	  .fadeIn {
 	    opacity: 0;
-	    animation: fadeIn 0.4s linear 0.4s infinite;
+	    animation: fadeInOut 1s ease-in-out infinite;
 	  }
 
-	  @keyframes fadeIn {
+	  @keyframes fadeInOut {
 	    0% {
 	      opacity: 0;
 	    }
-	    100% {
+	    50% {
 	      opacity: 1;
+	    }
+	    100% {
+	      opacity: 0;
 	    }
 	  }
 	</style>
