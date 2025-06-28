@@ -60,11 +60,6 @@ class 🧑‍💻 {
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-theme/0.1.0/1743798452081/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx theme" width="70"/>
       </a>
     </td>
-    <td width="111px">
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-keymap/0.9.6/1750900982281/Microsoft.VisualStudio.Services.Icons.Default" width="70" />
-      </a>
-    </td>
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-js-snippets" target="_blank" rel="noreferrer">
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynx-js-snippets/0.2.0/1745166683713/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx snippets" width="70" />
@@ -78,6 +73,11 @@ class 🧑‍💻 {
     <td>
       <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
+      </a>
+    </td>
+    <td width="111px">
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
       </a>
     </td>
     <td>
