@@ -4,21 +4,12 @@
 	<style>
 	  .fadeIn {
 	    opacity: 0;
-	    animation: fadeIn 2s linear 0.8s forwards;
+	    animation: fadeIn 0.8s linear 0.8s forwards;
 	  }
 
 	  @keyframes fadeIn {
 	    0% {
 	      opacity: 0;
-	    }
-	    25% {
-	      opacity: 1;
-	    }
-	    50% {
-	      opacity: 0;
-	    }
-	    75% {
-	      opacity: 1;
 	    }
 	    100% {
 	      opacity: 1;
