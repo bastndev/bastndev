@@ -71,8 +71,8 @@ class 🧑‍💻 {
       </a>
     </td>
     <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.1.0/1745191579610/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx pack" width="70" />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
       </a>
     </td>
     <td>
@@ -80,9 +80,9 @@ class 🧑‍💻 {
         <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
       </a>
     </td>
-            <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
+    <td>
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynxjs-pack" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/lynxjs-pack/0.1.0/1745191579610/Microsoft.VisualStudio.Services.Icons.Default" alt="lynx pack" width="70" />
       </a>
     </td>
     <td>
@@ -94,9 +94,9 @@ class 🧑‍💻 {
   <tr align="center">
     <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
     <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
-    <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
     <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/Bracket-Lynx">Bracket</a></th>
+    <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
     <th>MORE</th>
   </tr>
 </table>
