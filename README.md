@@ -1,5 +1,10 @@
 <!-- Top [Presentation] -->
 <div align="center">
+  <img src=".github/assets/img/ts1.png" width="100%">
+</div>
+
+</br>
+<div align="center">
   <a href="https://web.facebook.com/bastndev"><img src=".github/assets/svg/on1.svg" width="11.5%" alt="Facebook"></a>
   <a href="https://www.tiktok.com/@bastndev"><img src=".github/assets/svg/on2.svg" width="12%" alt="TikTok"></a>
   <a href="https://bsky.app/profile/bastndev.com"><img src=".github/assets/svg/on3.svg" width="11.5%" alt="Bluesky"></a>
