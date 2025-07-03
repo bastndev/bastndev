@@ -1,7 +1,7 @@
 <!-- Top [Presentation] -->
-<div align="center">
+<!-- <div align="center">
   <img src=".github/assets/img/ts1.png" width="100%">
-</div>
+</div> -->
 
 </br>
 <div align="center">
