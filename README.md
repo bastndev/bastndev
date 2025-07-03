@@ -12,7 +12,7 @@
 
 <!-- Flag US/CN -->
 <table align="right">
-  <tr><P>ㅤ</P><td><img src=".github/assets/img/us_flag.png" alt="US flag" width="22px" /> English</td></tr>
+  <tr><P>ㅤ</P><td><img src=".github/assets/img/us_flag.png" alt="US flag" width="21px" /> English</td></tr>
   <tr><td><a href="https://gitee.com/bastndev"><img src=".github/assets/img/cn_flag.png" alt="CN flag" width="17px" /> Chinese</a></td></tr>
 </table>
 
