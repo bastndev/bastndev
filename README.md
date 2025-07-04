@@ -30,7 +30,7 @@
 ```rs
 class 🧑‍💻 {
   nickname  = 'bastndev';
-  skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase 🔥'];
+  skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase'];
   interests = ['Linux', 'Mobile', 'FrontEnd', 'UI/UX', 'AI'];
   work      = 'Microsoft';
   From      = 'Peru 🇵🇪';
