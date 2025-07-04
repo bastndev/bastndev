@@ -24,7 +24,7 @@
 <!-- About ME -->
 ## About [ME](https://www.bastndev.com)
 
-```rs
+```
 Hello 👋, I'am Front-End Developer (Web & Mobile)... 
 ```
 ```rs
