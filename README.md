@@ -25,7 +25,7 @@
 ## About [ME](https://www.bastndev.com)
 
 ```py
-Hello 👋 welcome to my profile...
+Hello 👋 I'am Front-End Developer (Web & Mobile)... 
 ```
 ```rs
 class 🧑‍💻 {
