@@ -31,7 +31,7 @@
 class 🧑‍💻 {
   nickname  = 'bastndev';
   skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase'];
-  interests = ['Linux', 'Mobile', 'FrontEnd', 'UI/UX', 'AI'];
+  interests = ['Linux', 'Web', 'Mobile', 'UI/UX', 'AI'];
   work      = 'Microsoft';
   From      = 'Peru 🇵🇪';
   os        = 'Debian';
