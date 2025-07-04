@@ -22,7 +22,7 @@
 </table>
 
 <!-- About ME -->
-## About [ME](https://www.bastndev.com) <img src=".github/assets/img/me.png" width="2.5%">
+## 🟠 About [ME](https://www.bastndev.com)
 
 ```
 𝗛𝗲𝗹𝗹𝗼 👋, I'am Front-End Developer (Web & Mobile)... 
