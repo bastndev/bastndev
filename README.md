@@ -25,7 +25,7 @@
 ## About [ME](https://www.bastndev.com)
 
 ```
-Hello 👋, I'am Front-End Developer (Web & Mobile)... 
+𝗛𝗲𝗹𝗹𝗼 👋, I'am Front-End Developer (Web & Mobile)... 
 ```
 ```rs
 class 🧑‍💻 {
