@@ -29,7 +29,7 @@
 ```
 ```rs
 class 🧑‍💻 {
-  nickname  = '𝙗𝙖𝙨𝙩𝙣𝙙𝙚𝙫';
+  𝗻𝗶𝗰𝗸𝗻𝗮𝗺𝗲  = '@bastndev';
   skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase'];
   interests = ['Linux', 'Web', 'Mobile', 'UI/UX', 'AI'];
   work      = 'Microsoft';
