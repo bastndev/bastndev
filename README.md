@@ -28,7 +28,7 @@
 ¡𝗛𝗲𝗹𝗹𝗼!👋, 𝙸'𝚊𝚖 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (Web & Mobile)... 
 ```
 ```rs
-𝗰𝗹𝗮𝘀𝘀 🧑‍💻 {
+class 🧑‍💻 {
   nickname  = 'bastndev';
   skills    = ['LynxJS', 'NodeJS', 'AstroJS', 'Flutter', 'Firebase'];
   interests = ['Linux', 'Web', 'Mobile', 'UI/UX', 'AI'];
