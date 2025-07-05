@@ -22,7 +22,7 @@
 </table>
 
 <!-- About ME -->
-## 🟠 About [ME](https://www.bastndev.com)
+## 🍁 About [ME](https://www.bastndev.com)
 
 ```
 ¡𝗛𝗲𝗹𝗹𝗼!👋, 𝙸'𝚊𝚖 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (Web & Mobile)... 
