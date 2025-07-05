@@ -25,8 +25,12 @@
 ## 🟠 About [ME](https://www.bastndev.com)
 
 ```
-¡𝗛𝗲𝗹𝗹𝗼!👋, I'am Front-End Developer (`Web` & `Mobile`)... 
+¡𝗛𝗲𝗹𝗹𝗼!👋, I'am Front-End Developer (𝚆𝚎𝚋 & 𝙼𝚘𝚋𝚒𝚕𝚎)... 
 ```
+```
+¡𝗛𝗲𝗹𝗹𝗼!👋, I'am Front-End Developer (𝗪𝗲𝗯 & 𝗠𝗼𝗯𝗶𝗹𝗲)... 
+```
+
 ```rs
 class 🧑‍💻 {
   nickname  = 'bastndev';
