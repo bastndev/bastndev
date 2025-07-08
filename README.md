@@ -1,8 +1,4 @@
 <!-- Top [Presentation] -->
-<!-- <div align="center">
-  <img src=".github/assets/img/ts1.png" width="100%">
-</div> -->
-
 </br>
 <div align="center">
   <a href="https://web.facebook.com/bastndev"><img src=".github/assets/svg/on1.svg" width="11.5%" alt="Facebook"></a>
