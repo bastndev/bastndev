@@ -101,6 +101,6 @@ class 🧑‍💻 {
 <!-- Visitor counter -->
 <p align="center" style="display: flex; align-items: center; gap: 10px;">
   <a href="https://solo.to/bastndev" rel="noopener noreferrer">
-    <img src="https://profile-counter.glitch.me/{bastndev}/count.svg" alt="Visitor Count" title="GitHub 😼" />
+    <img src="https://profile-counter.glitch.me/bastndev/count.svg" alt="Visitor Count" title="GitHub 😼" />
   </a>
 </p>
