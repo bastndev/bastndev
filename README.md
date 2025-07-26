@@ -101,6 +101,10 @@ class 🧑‍💻 {
 <!-- Visitor counter -->
 <div align="center">
   <a href="https://solo.to/bastndev" rel="noopener noreferrer">
-    <img src="https://profile-counter.glitch.me/bastndev/count.svg" alt="Visitor Count" title="GitHub 😼" />
+    <img src="https://komarev.com/ghpvc/?username=bastndev&style=flat-square&color=blue" alt="GitHub Profile Views" title="GitHub Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=bastndev.bastndev" alt="Visitor Badge" title="Visitor Badge" />
+    <img src="https://count.getloli.com/get/@bastndev?theme=rule34" alt="GetLoli Counter" title="GetLoli Counter" />
+    <img src="https://profile-counter.glitch.me/bastndev/count.svg" alt="Glitch Profile Counter" title="Glitch Profile Counter" />
+    <img src="https://badges.pufler.dev/visits/bastndev/bastndev" alt="Pufler Visits" title="Pufler Visits" />
   </a>
 </div>
