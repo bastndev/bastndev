@@ -52,7 +52,6 @@ class 🧑‍💻 {
 
 <!-- Vscode extensions -->
 ## 🔵 VScode [Extensions](https://marketplace.visualstudio.com/publishers/bastndev)
-
 <table align="center" width="100%" style="table-layout: fixed">
   <tr align="center">
     <td>
@@ -66,13 +65,13 @@ class 🧑‍💻 {
       </a>
     </td>
     <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
+        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
       </a>
     </td>
     <td>
-      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.bracket-lynx" target="_blank" rel="noreferrer">
-        <img src="https://bastndev.gallerycdn.vsassets.io/extensions/bastndev/bracket-lynx/0.3.2/1750119273143/Microsoft.VisualStudio.Services.Icons.Default" alt="bracket lynx" width="60" />
+      <a href="https://marketplace.visualstudio.com/items?itemName=bastndev.lynx-keymap" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/bastndev/Lynx-Keymap/refs/heads/main/assets/images/logo.png" width="70" />
       </a>
     </td>
     <td>
@@ -89,8 +88,8 @@ class 🧑‍💻 {
   <tr align="center">
     <th><a href="https://github.com/bastndev/Lynx-Theme">Theme</a></th>
     <th><a href="https://github.com/bastndev/Lynx-js-Snippets">Snippets</a></th>
-    <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/Bracket-Lynx">Bracket</a></th>
+    <th><a href="https://github.com/bastndev/Lynx-Keymap">Keymap</a></th>
     <th><a href="https://github.com/bastndev/LynxJs-Packge">Package</a></th>
     <th>MORE</th>
   </tr>
@@ -99,8 +98,8 @@ class 🧑‍💻 {
 <br/>
 
 <!-- Visitor counter -->
-<p align="center" style="display: flex; align-items: center; gap: 10px;">
+<div align="center">
   <a href="https://solo.to/bastndev" rel="noopener noreferrer">
     <img src="https://profile-counter.glitch.me/bastndev/count.svg" alt="Visitor Count" title="GitHub 😼" />
   </a>
-</p>
+</div>
