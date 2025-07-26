@@ -49,8 +49,10 @@ class 🧑‍💻 {
 <!-- END YOUTUBE-CARDS -->
 
 </div>
+
 <!-- Vscode extensions -->
 ## 🔵 VScode [Extensions](https://marketplace.visualstudio.com/publishers/bastndev)
+
 <table align="center" width="100%" style="table-layout: fixed">
   <tr align="center">
     <td>
@@ -99,6 +101,6 @@ class 🧑‍💻 {
 <!-- Visitor counter -->
 <div align="center">
   <a href="https://solo.to/bastndev" rel="noopener noreferrer">
-    <img src="https://profile-counter.glitch.me/bastndev/count.svg" alt="Visitor Count" title="GitHub 😼">
+    <img src="https://profile-counter.glitch.me/bastndev/count.svg" alt="Visitor Count" title="GitHub 😼" />
   </a>
 </div>
