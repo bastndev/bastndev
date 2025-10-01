@@ -104,3 +104,18 @@ class 🧑‍💻 {
     <img src="https://komarev.com/ghpvc/?username=bastndev&style=flat-square&color=ff8800" alt="GitHub Profile Views" title="GitHub Profile Views" />
   </a>
 </div>
+
+<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=bstndev)
+![](https://komarev.com/ghpvc/?username=bstndev&color=green)
+![Profile Views](https://githitbox.duckdns.org/badge/bastndev)
+
+![Counter](https://githitbox.duckdns.org/badge/bastndev?style=counter&v=1) 
+![Counter](https://duckdns.org/update/exampledomain/yourtoken/ipaddress)
+<img src="https://yourdomain.com/counter_badge.php?key=bastndev" alt="Visitor Count">
+<img src="https://profile-counter.deno.dev/:bastndev:/count.svg" alt="Key:: Visitor's Count" />
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
+<br>
+</div> -->
